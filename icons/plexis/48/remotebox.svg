@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 22 10 0 6 6 0 0 -6 -6 0 z m -5.484 2.271 -4.244 4.244 4.244 4.242 4.242 -4.242 -4.242 -4.244 z m 16.969 0 -4.242 4.244 4.242 4.242 4.244 -4.242 -4.244 -4.244 z m -12.484 8.729 l 0 8 8 0 0 -8 -8 0 z m -11 1 0 6 6 0 0 -6 -6 0 z m 24 0 0 6 6 0 0 -6 -6 0 z m -17.484 7.242 -4.244 4.242 4.244 4.244 4.242 -4.244 -4.242 -4.242 z m 16.969 0 -4.242 4.242 4.242 4.244 4.244 -4.244 -4.244 -4.242 z m -11.484 4.758 l 0 6 6 0 0 -6 -6 0 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <g>
+  <rect y="20" x="20" height="8" width="8" style="fill:#666db2;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect y="21" x="9" height="6" width="6" style="fill:#56c256;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect width="6" height="6" x="33" y="21" style="fill:#b7619d;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect y="33" x="21" height="6" width="6" style="fill:#ba5e5e;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect width="6" height="6" x="21" y="9" style="fill:#cacb4d;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" width="6" height="6" x="18.941" y="-3" style="fill:#61b6b7;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" y="-3" x="42.941" height="6" width="6" style="fill:#7eba5e;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" width="6" height="6" x="30.941" y="9" style="fill:#cf8b49;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" y="-15" x="30.941" height="6" width="6" style="fill:#905fcd;opacity:1;fill-opacity:1;stroke:none"/>
+ </g>
+</svg>

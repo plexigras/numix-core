@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#00b6c0;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#00c9d4;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="matrix(3.543307,0,0,3.543307,0.00157475,-0.00196724)">
+  <rect y="3.387" x="3.387" height="7.338" width="7.338" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+  <rect width="7.338" height="7.338" x="3.104" y="3.104" style="fill:#5e5e5e;fill-opacity:1;stroke:none"/>
+  <rect width="6.773" height="6.773" x="3.387" y="3.387" style="fill:#eee;fill-opacity:1;stroke:none"/>
+  <rect width="6.773" height="0.282" x="3.387" y="5.08" style="fill:#5e5e5e;fill-opacity:1;stroke:none"/>
+  <rect y="6.773" x="3.387" height="0.282" width="6.773" style="fill:#5e5e5e;fill-opacity:1;stroke:none"/>
+  <rect width="6.773" height="0.282" x="3.387" y="8.467" style="fill:#5e5e5e;fill-opacity:1;stroke:none"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" y="-5.08" x="-10.16" height="0.282" width="6.773" style="fill:#5e5e5e;fill-opacity:1;stroke:none"/>
+  <rect width="6.773" height="0.282" x="-10.16" y="-6.773" transform="matrix(0,-1,-1,0,0,0)" style="fill:#5e5e5e;fill-opacity:1;stroke:none"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" y="-8.467" x="-10.16" height="0.282" width="6.773" style="fill:#5e5e5e;fill-opacity:1;stroke:none"/>
+  <rect width="1.411" height="1.411" x="6.773" y="5.362" style="fill:#d71e1e;fill-opacity:1;stroke:none"/>
+  <rect y="3.387" x="6.773" height="1.693" width="1.411" style="fill:#fa884c;fill-opacity:1;stroke:none"/>
+  <rect y="7.06" x="8.467" height="1.411" width="1.693" style="fill:#7fde59;fill-opacity:1;stroke:none"/>
+  <rect width="1.411" height="1.411" x="5.08" y="7.06" style="fill:#b9b9b9;fill-opacity:1;stroke:none"/>
+  <rect y="3.387" x="3.387" height="1.693" width="1.411" style="fill:#d7d7d7;fill-opacity:1;stroke:none"/>
+ </g>
+</svg>

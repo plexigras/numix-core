@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#93c849;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#9ccc58;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="matrix(3.543307,0,0,3.543307,0.03700814,5.7587553e-7)">
+  <rect rx="0.776" y="3.951" x="3.387" height="6.209" width="7.338" style="fill:#000;fill-opacity:0.102;stroke:none"/>
+  <path d="m 3.344 3.909 0 5.729 6.858 0 0 -5.729 z" style="fill:#2c87d5"/>
+  <path d="M 5.801,3.76 3.393,3.945 3.146,6.705 c 0.169,0.04 0.348,0.062 0.529,0.062 1.247,0 2.258,-1.01 2.258,-2.258 0,-0.263 -0.05,-0.515 -0.132,-0.75 z" style="fill:#fff;opacity:0.2"/>
+  <path d="m 3.365 3.945 0 1.596 c 0.128 0.06 0.301 0.097 0.452 0.097 0.546 0 0.988 -0.442 0.988 -0.988 0 -0.277 -0.116 -0.526 -0.3 -0.706 z" style="fill:#fbc06e"/>
+  <path d="m 4.804 7.332 -1.439 1.411 0 0.875 3.133 0 0 -0.593 z" style="fill:#f7f7f7"/>
+  <path d="m 4.804 7.332 0.282 1.129 -0.564 0.706 0.282 0.452 1.693 0 0 -0.593 z" style="fill:#dfdfdf"/>
+  <path d="m 8.473 6.203 -2.54 3.415 4.262 0 0 -1.536 z" style="fill:#f7f7f7"/>
+  <path d="m 8.473 6.203 0.423 1.411 -0.423 1.27 0.503 0.734 1.219 0 0 -1.536 z" style="fill:#dfdfdf"/>
+  <path d="m 3.75,3.656 c -0.353,0 -0.656,0.304 -0.656,0.656 l 0,4.938 c 0,0.353 0.304,0.625 0.656,0.625 l 6.06,0 c 0.353,0 0.625,-0.272 0.625,-0.625 l 0,-4.938 c 0,-0.353 -0.272,-0.656 -0.625,-0.656 l -6.06,0 z m 0,0.281 6.06,0 c 0.201,0 0.344,0.174 0.344,0.375 l 0,4.938 c 0,0.201 -0.142,0.344 -0.344,0.344 l -6.06,0 C 3.549,9.594 3.375,9.452 3.375,9.25 l 0,-4.938 c 0,-0.201 0.174,-0.375 0.375,-0.375 z" style="visibility:visible;fill:#fff;fill-opacity:1;stroke:none;display:inline;color:#000"/>
+ </g>
+</svg>

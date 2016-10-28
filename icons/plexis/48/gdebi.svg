@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#508dbc;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#5e96c1;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #5e96c1 -->
+     <g>
+      <path d="m 24.311 12 l -4.23 1.262 l 1.236 4.332 l 4.229 -1.266 l -1.234 -4.328 z m 7.313 1.754 l -1.145 0.902 l -1.379 -0.453 l 0.48 1.395 l -0.848 1.203 l 1.445 -0.043 l 0.854 1.191 l 0.406 -1.418 l 1.375 -0.461 l -1.184 -0.836 l -0.006 -1.48 z m -5.705 4.27 l -1.348 1.754 l 0.813 2.066 l 2.156 0.316 l 1.348 -1.754 l -0.813 -2.068 l -2.156 -0.314 z m -7.777 0.117 l -0.863 2.789 l 2.723 0.883 l 0.863 -2.789 l -2.723 -0.883 z m -2.141 5.859 l -4 3.426 l 0.748 0.98 l 3.252 -2.807 l 0 10.4 l 18 0 l 0 -10.4 l 3.252 2.807 l 0.748 -0.98 l -4 -3.426 l -18 0 z" transform="translate(-1,-1)" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #5e96c1 -->
+   <g>
+    <path d="m 15 23 l -4 3.426 l 0.748 0.98 l 3.252 -2.807 l 0 10.4 l 18 0 l 0 -10.4 l 3.252 2.807 l 0.748 -0.98 l -4 -3.426 l -18 0 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 17.14 17.14 l -0.863 2.789 l 2.723 0.883 l 0.863 -2.789 l -2.723 -0.883 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 23.311 11 l -4.23 1.262 l 1.236 4.332 l 4.229 -1.266 l -1.234 -4.328 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 24.918 17.02 l -1.348 1.754 l 0.813 2.066 l 2.156 0.316 l 1.348 -1.754 l -0.813 -2.068 l -2.156 -0.314 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 30.623 12.754 l -1.145 0.902 l -1.379 -0.453 l 0.48 1.395 l -0.848 1.203 l 1.445 -0.043 l 0.854 1.191 l 0.406 -1.418 l 1.375 -0.461 l -1.184 -0.836 l -0.006 -1.48 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   </g>
+  </g>
+ </g>
+ <g>
+  
+ </g>
+</svg>

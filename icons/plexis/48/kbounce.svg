@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3948" x1="20" y1="20" x2="37" y2="37" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.9999998,0)">
+   <stop style="stop-color:#000;stop-opacity:0.118"/>
+   <stop offset="1" style="stop-color:#000;stop-opacity:0.039"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3902" gradientUnits="userSpaceOnUse" y1="18" x2="0" y2="40" gradientTransform="matrix(0.70692389,-0.70723967,0.70692389,0.70723967,-6.8570834,21.415982)">
+   <stop style="stop-color:#939393;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#9b9b9b;stop-opacity:0.235"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3910" gradientUnits="userSpaceOnUse" cx="21.781" cy="17.703" r="7">
+   <stop style="stop-color:#97cef9;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#6f8ee9;stop-opacity:1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="matrix(-1,0,0,1,49.008001,0.00240892)">
+  <path d="m 19 13 c -2.047 0 -4.095 0.781 -5.656 2.344 -3.123 3.125 -3.123 8.188 0 11.313 0 0 18.4 12.744 21.25 9.938 2.85 -2.807 -9.938 -21.25 -9.938 -21.25 c -1.562 -1.562 -3.609 -2.344 -5.656 -2.344" style="fill:url(#linearGradient3948);fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 35.594 35.596 c -2.85 2.807 -21.243 -9.946 -21.243 -9.946 l 11.307 -11.306 c 0 0 12.785 18.446 9.936 21.253 z" style="fill:url(#linearGradient3902);fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <circle transform="matrix(0.80791299,-0.80827388,0.80791299,0.80827388,-13.934415,21.618051)" cx="22" cy="20" r="7" style="fill:url(#radialGradient3910);fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ </g>
+</svg>

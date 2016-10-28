@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g>
+  <path d="m 24 12 0 12 -12 0 0 2 12 0 0 12 2 0 0 -12 12 0 0 -2 -12 0 0 -12 -2 0 z m 8 1 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m -17.19 0.408 -1.414 1.414 3.182 3.182 -3.182 3.182 1.414 1.414 3.182 -3.182 3.182 3.182 1.414 -1.414 -3.182 -3.182 3.182 -3.182 -1.414 -1.414 -3.182 3.182 -3.182 -3.182 z m 17.19 1.592 a 3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3 z m -14 12 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m 10.814 0.408 -1.414 1.414 3.182 3.182 -3.182 3.182 1.414 1.414 3.182 -3.182 3.182 3.182 1.414 -1.414 -3.182 -3.182 3.182 -3.182 -1.414 -1.414 -3.182 3.182 -3.182 -3.182 z m -10.814 1.592 a 3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3 z" style="fill:#000;opacity:1;fill-opacity:0.098;stroke:none;fill-rule:nonzero"/>
+  <path d="m 23 11 l 0 12 l -12 0 l 0 2 l 12 0 l 0 12 l 2 0 l 0 -12 l 12 0 l 0 -2 l -12 0 l 0 -12 l -2 0 z" style="fill:#636363;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="M 31 12 A 5 5 0 0 0 26 17 A 5 5 0 0 0 31 22 A 5 5 0 0 0 36 17 A 5 5 0 0 0 31 12 z M 31 14 A 3 3 0 0 1 34 17 A 3 3 0 0 1 31 20 A 3 3 0 0 1 28 17 A 3 3 0 0 1 31 14 z" style="fill:#e67878;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 17 26 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m 0 2 a 3 3 0 0 1 3 3 3 3 0 0 1 -3 3 3 3 0 0 1 -3 -3 3 3 0 0 1 3 -3 z" style="fill:#e67878;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 13.814 12.408 l -1.414 1.414 l 3.182 3.182 l -3.182 3.182 l 1.414 1.414 l 3.182 -3.182 l 3.182 3.182 l 1.414 -1.414 l -3.182 -3.182 l 3.182 -3.182 l -1.414 -1.414 l -3.182 3.182 l -3.182 -3.182 z" style="fill:#8484bc;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 27.814 26.409 -1.414 1.414 3.182 3.182 -3.182 3.182 1.414 1.414 l 3.182 -3.182 3.182 3.182 1.414 -1.414 -3.182 -3.182 3.182 -3.182 -1.414 -1.414 -3.182 3.182 -3.182 -3.182 z" style="fill:#8484bc;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ </g>
+</svg>

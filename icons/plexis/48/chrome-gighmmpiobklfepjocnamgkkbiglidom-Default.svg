@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#d0241c;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#e12a20;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #e12a20 -->
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0.99999733,0)">
+  <!-- color: #e12a20 -->
+  <g>
+   <path d="m 18.586 13 -6.586 6.586 0 10.828 l 6.586 6.586 l 10.828 0 6.586 -6.586 0 -10.828 l -6.586 -6.586 -10.828 0 m 0.828 2 9.172 0 5.414 5.414 0 9.172 l -5.414 5.414 l -9.172 0 -5.414 -5.414 0 -9.172 l 5.414 -5.414 m 4.586 1 c -0.554 0 -1 0.446 -1 1 l 0 7.02 a 6.5 5 0 0 0 -1 0.125 l 0 -6.141 c 0 -0.554 -0.446 -1 -1 -1 -0.554 0 -1 0.446 -1 1 l 0 6.787 a 6.5 5 0 0 0 -1 0.607 l 0 -5.172 c 0 -0.677 -0.446 -1.223 -1 -1.223 -0.554 0 -1 0.546 -1 1.223 l 0 8.555 c 0 0.023 0.009 0.042 0.01 0.064 a 6.5 5 0 0 0 -0.01 0.158 a 6.5 5 0 0 0 6.5 5 6.5 5 0 0 0 6.348 -3.934 l 0.021 0.053 c 0 0 0.043 -0.285 0.084 -0.551 a 6.5 5 0 0 0 0.016 -0.1 c 0.212 -1.311 0.831 -4.527 2.16 -6.967 0 -0.566 -0.566 -0.566 -0.566 -0.566 -0.815 0.17 -1.464 0.381 -1.902 1.031 l -1.646 2.441 a 6.5 5 0 0 0 -0.014 -0.01 l 0 -7.398 c 0 -0.554 -0.446 -1 -1 -1 -0.554 0 -1 0.446 -1 1 l 0 6.387 a 6.5 5 0 0 0 -1 -0.246 l 0 -7.141 c 0 -0.554 -0.446 -1 -1 -1 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  </g>
+ </g>
+ <g>
+  
+ </g>
+ <g>
+  <path d="m 18.586 12 -6.586 6.586 0 10.828 6.586 6.586 10.828 0 6.586 -6.586 0 -10.828 -6.586 -6.586 m -10 2 9.172 0 l 5.414 5.414 0 9.172 -5.414 5.414 -9.172 0 -5.414 -5.414 0 -9.172" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#f9f9f9;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+  <ellipse ry="5" rx="6.5" cy="28" cx="23.5" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect y="16" x="26" height="11" width="2" rx="1" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect y="15" x="23" height="11" width="2" rx="1" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect y="16" x="20" height="11" width="2" rx="1" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect ry="1.222" y="18" x="17" height="11" width="2" rx="1" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 31.563 20.935 c -0.815 0.17 -1.464 0.38 -1.903 1.031 l -1.73 2.567 1.939 4.586 c 0 0 0.564 -4.504 2.26 -7.617 0 -0.566 -0.566 -0.566 -0.566 -0.566 z" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ </g>
+</svg>

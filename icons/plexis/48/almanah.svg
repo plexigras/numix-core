@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#333;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#3d3d3d;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #3d3d3d -->
+     <g>
+      <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #3d3d3d -->
+   <g>
+    <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#c00;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+    <path d="m 13 31 c 0 1.348 0 2.816 0 4 l 22 0 c 0 -4 0 -2.375 0 -4 m -22 0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+    <path d="m 12 12 c 0 6.06 0 12.672 0 18 l 24 0 c 0 -18 0 -10.699 0 -18 m -24 0" style="fill:#a00;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+    <path d="m 29,20 c 0,0.672 0,1.406 0,1.996 l 7,0 C 36,20 36,20.808 36,20 m -7,0" style="fill:#999;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+    <path d="m 30.563 19.953 c 0 0 1.941 0.039 1.945 1.387 l 0 1.113 c 0 0 0.555 -0.027 0.555 0.277 l 0 2.848 c 0 0.258 -0.254 0.488 -0.535 0.488 l -3.93 0 c -0.281 0 -0.535 -0.23 -0.535 -0.488 l 0 -2.848 c 0 -0.309 0.559 -0.277 0.559 -0.277 l 0 -1.113 c 0.012 -1.352 1.945 -1.387 1.945 -1.387 m -0.004 0.832 c 0 0 -1.113 -0.043 -1.113 0.973 l 0 0.691 2.223 0 0 -0.691 c 0 -1.016 -1.113 -0.973 -1.113 -0.973 m 0.004 0" style="fill:#ff0;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 13 31.996 c 0 0.336 0 0.707 0 1 l 22 0 c 0 -1 0 -0.598 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+    <path d="m 13 34 c 0 0.34 0 0.707 0 1 l 22 0 c 0 -1 0 -0.594 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+   </g>
+  </g>
+ </g>
+ <g>
+  
+ </g>
+</svg>

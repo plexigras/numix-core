@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 28 11 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m -11 4 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m 18 5 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m -18 6 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m 11 3 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <g transform="translate(1,0)">
+  <circle r="5" cy="30" cx="15" style="fill:#1d973d;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="5" cy="33" cx="26" style="fill:#1d973d;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="5" cy="19" cx="15" style="fill:#1d973d;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="5" cy="15" cx="26" style="fill:#1d973d;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="5" cy="24" cx="33" style="fill:#1d973d;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="3" cy="19" cx="15" style="fill:#b0e51b;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="3" cy="30" cx="15" style="fill:#b0e51b;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="3" cy="33" cx="26" style="fill:#b0e51b;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="3" cy="15" cx="26" style="fill:#b0e51b;opacity:1;fill-opacity:1;stroke:none"/>
+  <circle r="3" cy="24" cx="33" style="fill:#b0e51b;opacity:1;fill-opacity:1;stroke:none"/>
+ </g>
+</svg>

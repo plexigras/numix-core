@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#f5d7c7;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#f8e3d8;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 25 10 -14 24 28 0 -14 -24 m 0 4 4.688 8 -9.375 0 l 4.688 -8 m -5 8.533 0 9.467 -5.547 0 5.547 -9.467 m 10 0 l 5.547 9.467 -5.547 0 0 -9.467" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#000;opacity:0.1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+ <rect width="10" height="10" x="19" y="21" style="fill:#50c06a;opacity:1;fill-opacity:1;stroke:none"/>
+ <path d="m 24 9 -14 24 28 0 m -14 -19.998 10.547 17.998 -21.09 0" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#cd855f;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+</svg>

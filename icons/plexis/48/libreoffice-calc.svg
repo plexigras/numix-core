@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#37b770;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#3dc57a;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #3dc57a -->
+     <g>
+      <path d="m 14.656 11 c -1.473 0 -2.66 1.184 -2.66 2.656 l 0 20.684 c 0 1.477 1.184 2.66 2.66 2.66 l 20.684 0 c 1.473 0 2.66 -1.184 2.66 -2.66 l 0 -17.344 l -6 -5.996 m -17.344 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <use xlink:href="#SVGCleanerId_0"/>
+      <path d="m 38 17 l -6 0 l 0 -5.996 m 6 5.996" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #3dc57a -->
+   <g>
+    <path d="m 14.656,11 c -1.473,0 -2.66,1.184 -2.66,2.656 l 0,20.684 c 0,1.477 1.184,2.66 2.66,2.66 L 35.34,37 C 36.813,37 38,35.816 38,34.34 L 38,16.996 32,11 m -17.344,0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 38 17 -6 0 6 6 m 0 -6" id="SVGCleanerId_0" style="fill:#000;fill-opacity:0.2;stroke:none;fill-rule:nonzero"/>
+    <path d="m 38,17 -6,0 0,-5.996 M 38,17" style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 33 19 c 0 5.629 0 11.12 0 16 -5.617 0 -11.141 0 -16 0 0 -5.629 0 -11.12 0 -16 5.555 0 11.238 0 16 0 m -1 1 -8 0 0 4 8 0 m -9 -4 -5 0 0 4 5 0 m 9 1 -8 0 0 4 8 0 m -9 -4 -5 0 0 4 5 0 m 9 1 -8 0 0 4 8 0 m -9 -4 -5 0 0 4 5 0 m 0 -4" style="fill:#44c89c;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   </g>
+  </g>
+ </g>
+ <g>
+  
+ </g>
+</svg>

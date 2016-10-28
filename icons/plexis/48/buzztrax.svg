@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#3d3d3d;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#474747;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g>
+  <path d="m 13.801 15 c -0.443 0 -0.801 0.358 -0.801 0.801 l 0 5.398 c 0 0.443 0.358 0.801 0.801 0.801 l 2.328 0 4.293 7.107 c -0.248 0.136 -0.422 0.39 -0.422 0.693 l 0 5.398 c 0 0.443 0.358 0.801 0.801 0.801 l 8.398 0 c 0.443 0 0.801 -0.358 0.801 -0.801 l 0 -5.398 c 0 -0.272 -0.145 -0.5 -0.352 -0.645 l 4.322 -7.156 2.229 0 c 0.443 0 0.801 -0.358 0.801 -0.801 l 0 -5.398 c 0 -0.443 -0.358 -0.801 -0.801 -0.801 l -8.398 0 c -0.443 0 -0.801 0.358 -0.801 0.801 l 0 5.398 c 0 0.443 0.358 0.801 0.801 0.801 l 2.314 0 -4.227 7 -1.676 0 -4.229 -7 2.215 0 c 0.443 0 0.801 -0.358 0.801 -0.801 l 0 -5.398 c 0 -0.443 -0.358 -0.801 -0.801 -0.801 l -8.398 0 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#000;opacity:1;image-rendering:auto;fill-opacity:0.098;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+  <path d="m 17 17.721 c -0.942 0.568 -1.884 1.135 -2.826 1.703 l 7.518 12.449 2.826 -1.703 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#808080;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+  <path d="m 31.1 17.721 c 0.942 0.568 1.884 1.135 2.826 1.703 l -7.518 12.449 -2.826 -1.703" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#808080;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+  <path d="m 16.834 18.406 -1.969 1.188 7 11.594 1.969 -1.188 -7 -11.594 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#969696;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+  <rect rx="0.8" y="14" x="12" height="7" width="10" style="fill:#c37c14;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+  <path d="m 31.27 18.406 1.969 1.188 -7 11.594 l -1.969 -1.188 l 7 -11.594 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#969696;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+  <rect width="10" height="7" x="26" y="14" rx="0.8" style="fill:#5e9d23;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+  <rect width="10" height="7" x="19" y="28" rx="0.8" style="fill:#3465a4;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+  <rect width="8" height="5" x="13" y="15" rx="0.2" style="fill:#f3ad47;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+  <rect rx="0.2" y="15" x="27" height="5" width="8" style="fill:#82d530;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+  <rect width="8" height="5" x="20" y="29" rx="0.2" style="fill:#729fcf;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+ </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#9dd7c7;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#abddd0;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="linear0" gradientUnits="userSpaceOnUse" y1="3.387" x2="0" y2="10.16" gradientTransform="scale(3.543307,3.543307)">
+   <stop style="stop-color:#e4f1c8;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#e6f4d6;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #abddd0 -->
+     <g>
+      <path d="m 24 12 c -6.629 0 -12 5.188 -12 11.586 c 0 3.859 1.969 7.258 4.969 9.363 c -0.109 0.441 -0.246 0.91 -0.469 1.395 c -0.75 1.656 -1.496 1.656 -1.496 1.656 c 0 0 2.25 0 3.746 -0.828 c 0.316 -0.176 0.598 -0.461 0.844 -0.801 c 1.367 0.52 2.852 0.801 4.41 0.801 c 6.625 0 12 -5.188 12 -11.586 c 0 -6.402 -5.371 -11.59 -12 -11.59 m 0 0.004" style="fill:#000;stroke:none;fill-rule:nonzero"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #abddd0 -->
+   <g>
+    <path d="m 24,12 c -6.629,0 -12,5.188 -12,11.586 0,3.859 1.969,7.258 4.969,9.363 C 16.86,33.39 16.723,33.859 16.5,34.344 15.75,36 15.004,36 15.004,36 c 0,0 2.25,0 3.746,-0.828 0.316,-0.176 0.598,-0.461 0.844,-0.801 1.367,0.52 2.852,0.801 4.41,0.801 6.625,0 12,-5.188 12,-11.586 0,-6.402 -5.371,-11.59 -12,-11.59 m 0,0.004" style="fill:url(#linear0);stroke:none;fill-rule:nonzero"/>
+    <path d="m 29 27.07 -2.828 0 -0.789 3.934 -1.387 0 0.805 -3.934 -2.883 0 -0.785 3.934 -1.391 0 0.816 -3.934 -1.555 0 0 -1.367 1.809 0 0.695 -3.363 -2.504 0 0 -1.367 2.77 0 0.805 -3.973 1.363 0 -0.785 3.973 2.871 0 0.805 -3.973 1.367 0 -0.789 3.973 1.594 0 0 1.367 -1.875 0 -0.668 3.363 2.543 0 m -3.242 -3.359 -2.895 0 -0.664 3.363 2.863 0 m 0.695 -3.363" style="fill:#62a228;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   </g>
+  </g>
+ </g>
+ <g>
+  
+ </g>
+</svg>

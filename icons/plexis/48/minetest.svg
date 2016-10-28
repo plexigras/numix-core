@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <!-- color: #eeeeee -->
+   <g>
+    <path d="m 25 12.05 -9 4.656 0 9.605 6.01 3.184 0 5.924 3 1.648 2.988 -1.648 0 -5.926 6 -3.182 0 -9.605 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#000;opacity:1;image-rendering:auto;fill-opacity:0.098;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
+    <path d="m 6.068,9.631 0.708,0.388 0.702,-0.388 0,-2.328 L 6.776,6.916 6.068,7.303 Z m 0,0" transform="matrix(3.543307,0,0,3.543307,0,0)" style="stroke-opacity:1;fill:#c17d11;stroke-miterlimit:4;fill-opacity:1;stroke:#8e5902;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.282"/>
+    <path d="m 24 35 l 0 -10 m 0 10" style="stroke-opacity:1;fill:none;stroke-miterlimit:4;stroke:#8e5902;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1"/>
+    <path d="M 4.374,7.06 6.773,8.33 9.172,7.06 9.172,4.52 6.773,3.278 4.374,4.52 Z m 0,0" transform="matrix(3.543307,0,0,3.543307,0,0)" style="stroke-opacity:1;fill:#4c9a03;stroke-miterlimit:4;fill-opacity:1;stroke:#2f6003;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.282"/>
+    <path d="m 6.773 8.326 l 0 -2.68 l 2.434 -1.13 l -2.434 1.13 l -2.381 -1.13 l 2.381 1.13 m 0 2.68" transform="matrix(3.543307,0,0,3.543307,0,0)" style="stroke-opacity:1;fill:#2f6003;stroke-miterlimit:4;fill-opacity:1;stroke:#2f6003;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:0.282"/>
+   </g>
+  </g>
+ </g>
+ <g>
+  
+ </g>
+</svg>

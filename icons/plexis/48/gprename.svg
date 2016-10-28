@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #eeeeee -->
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #eeeeee -->
+  </g>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="translate(1.021,0.99)" style="fill:#000;fill-opacity:0.098">
+  <path d="m 34.555 19.613 c -1.828 -4.03 -5.922 -6.617 -10.531 -6.617 -4.715 0 -9.03 2.832 -10.734 7.04 l 3.578 1.324 c 1.129 -2.809 4.01 -4.691 7.156 -4.691 3.035 0 5.715 1.68 6.961 4.305 l -2.609 1 6.672 3.684 1.953 -6.977 m -2.445 0.934" style="stroke:none;fill-rule:nonzero"/>
+  <path d="m 13.425 28.393 c 1.828 4.03 5.922 6.617 10.531 6.617 4.715 0 9.03 -2.832 10.734 -7.04 l -3.578 -1.324 c -1.129 2.809 -4.01 4.691 -7.156 4.691 -3.035 0 -5.715 -1.68 -6.961 -4.305 l 2.609 -1 -6.672 -3.684 -1.953 6.977 m 2.445 -0.934" style="stroke:none;fill-rule:nonzero"/>
+ </g>
+ <g transform="translate(0.021,-0.01)">
+  <path d="m 34.555 19.613 c -1.828 -4.03 -5.922 -6.617 -10.531 -6.617 -4.715 0 -9.03 2.832 -10.734 7.04 l 3.578 1.324 c 1.129 -2.809 4.01 -4.691 7.156 -4.691 3.035 0 5.715 1.68 6.961 4.305 l -2.609 1 6.672 3.684 1.953 -6.977 m -2.445 0.934" style="fill:#49cd3d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 13.425 28.393 c 1.828 4.03 5.922 6.617 10.531 6.617 4.715 0 9.03 -2.832 10.734 -7.04 l -3.578 -1.324 c -1.129 2.809 -4.01 4.691 -7.156 4.691 -3.035 0 -5.715 -1.68 -6.961 -4.305 l 2.609 -1 -6.672 -3.684 -1.953 6.977 m 2.445 -0.934" style="fill:#4570ff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ </g>
+</svg>

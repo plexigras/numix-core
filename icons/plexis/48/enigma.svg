@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4256" cx="30" cy="18" r="5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.8,0,0,0.8,6,3.6)">
+   <stop style="stop-color:#3e4652;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#262b32;stop-opacity:1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <path d="m 13 13 l 0 24 l 24 0 l 0 -12 l -12 0 l 0 -12 l -12 0 z m 18 2 a 4 4 0 0 0 -4 4 a 4 4 0 0 0 4 4 a 4 4 0 0 0 4 -4 a 4 4 0 0 0 -4 -4 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <g>
+  
+ </g>
+ <g>
+  <path d="m 18 18 -6 6 12 0 -6 -6 z" style="fill:#8181b5;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 18 18 -6 -6 12 0 -6 6 z" style="fill:#acb4d4;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 18 18 6 -6 0 12 -6 -6 z" style="fill:#8d8dbb;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 18 18 -6 -6 0 12 6 -6 z" style="fill:#96a1ce;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 30 30 -6 6 12 0 -6 -6 z" style="fill:#8181b5;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 30 30 -6 -6 12 0 -6 6 z" style="fill:#acb4d4;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 30 30 6 -6 0 12 -6 -6 z" style="fill:#8d8dbb;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 30 30 -6 -6 0 12 6 -6 z" style="fill:#96a1ce;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 18 30 -6 6 12 0 -6 -6 z" style="fill:#cd6970;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 18 30 -6 -6 12 0 -6 6 z" style="fill:#d9a7ab;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 18 30 6 -6 0 12 -6 -6 z" style="fill:#cf797f;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 18 30 -6 -6 0 12 6 -6 z" style="fill:#d49095;opacity:1;fill-opacity:1;stroke:none"/>
+ </g>
+ <circle cx="30" cy="18" r="4" style="fill:url(#radialGradient4256);opacity:1;fill-opacity:1;stroke:none"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#0f3f87;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#114799;stop-opacity:1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4185" cx="24" cy="24.02" r="15" gradientTransform="matrix(1,0,0,0.99837252,0,0.03909934)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#839cc1;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#7692bb;stop-opacity:1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #abd240 -->
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #abd240 -->
+  </g>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 25.975 10.05 c -3.548 2.658 -9.43 6.375 -14.197 7.883 a 15 15 0 0 0 -1.777 7.07 15 15 0 0 0 0.439 3.535 c 12.57 -7.737 15.538 -17.05 15.559 -18.486 a 15 15 0 0 0 -0.023 0 z m 3.02 0.51 c -1.368 7.799 -5.341 18.573 -12.467 26.822 a 15 15 0 0 0 8.469 2.619 15 15 0 0 0 2.393 -0.199 c 4.284 -8.903 5.592 -19.362 1.611 -29.24 a 15 15 0 0 0 -0.006 -0.002 z m 3.781 1.637 c 4.03 9.438 4.212 13.815 4.219 21.777 a 15 15 0 0 0 3 -8.973 15 15 0 0 0 -7.221 -12.805" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <path d="m 24.975 9.05 c -3.548 2.658 -9.43 6.375 -14.197 7.883 a 15 15 0 0 0 -1.777 7.07 15 15 0 0 0 0.439 3.535 c 12.57 -7.737 15.538 -17.05 15.559 -18.486 a 15 15 0 0 0 -0.023 0 z m 3.02 0.51 c -1.368 7.799 -5.341 18.573 -12.467 26.822 a 15 15 0 0 0 8.469 2.619 15 15 0 0 0 2.393 -0.199 c 4.284 -8.903 5.592 -19.362 1.611 -29.24 a 15 15 0 0 0 -0.006 -0.002 z m 3.781 1.637 c 4.03 9.438 4.212 13.815 4.219 21.777 a 15 15 0 0 0 3 -8.973 15 15 0 0 0 -7.221 -12.805" style="fill:url(#radialGradient4185);opacity:1;fill-opacity:1;stroke:none"/>
+</svg>

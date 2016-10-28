@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="matrix(0.05538515,0,0,0.05468986,11.061356,-0.66340991)" style="fill:#000;opacity:0.12;fill-opacity:1;display:inline">
+  <path d="m 17.77 25.295 -6.524 -5.02 -1.414 0.754 0 11.555 1.414 0.754 6.523 -5.02 10.914 10.55 4.961 -2.01 0 -20.1 -4.961 -2.01 c 0 0 -7.282 7.03 -10.914 10.55 z m 10.914 6.03 -5.953 -4.522 5.953 -4.522 z m -15.875 -7.285 2.977 2.763 -2.977 2.763 z" transform="matrix(18.197551,0,0,18.197551,-161.97138,-18.472825)" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;opacity:1;image-rendering:auto;stroke:none;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
+ </g>
+ <g transform="matrix(0.05538515,0,0,0.05468986,10.061356,-1.66341)" style="fill:#4b53de;fill-opacity:1;display:inline">
+  <path d="m 17.77 25.295 -6.524 -5.02 -1.414 0.754 0 11.555 1.414 0.754 6.523 -5.02 10.914 10.55 4.961 -2.01 0 -20.1 -4.961 -2.01 c 0 0 -7.282 7.03 -10.914 10.55 z m 10.914 6.03 -5.953 -4.522 5.953 -4.522 z m -15.875 -7.285 2.977 2.763 -2.977 2.763 z" transform="matrix(18.197551,0,0,18.197551,-161.97138,-18.472825)" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;opacity:1;image-rendering:auto;stroke:none;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
+ </g>
+</svg>

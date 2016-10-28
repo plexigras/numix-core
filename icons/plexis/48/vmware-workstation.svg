@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #eeeeee -->
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #eeeeee -->
+  </g>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 19 13 c -1.108 0 -2 0.892 -2 2 l 0 2 -2 0 c -1.108 0 -2 0.892 -2 2 l 0 16 c 0 1.108 0.892 2 2 2 l 16 0 c 1.108 0 2 -0.892 2 -2 l 0 -2 2 0 c 1.108 0 2 -0.892 2 -2 l 0 -16 c 0 -1.108 -0.892 -2 -2 -2 l -16 0 z m 0 2 16 0 0 16 -2 0 0 -12 c 0 -1.108 -0.892 -2 -2 -2 l -12 0 0 -2 z m -4 4 2 0 0 12 c 0 1.108 0.892 2 2 2 l 12 0 0 2 -16 0 0 -16 z m 4 0 12 0 0 12 -12 0 0 -12 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <g>
+  <path d="m 14 16 c -1.108 0 -2 0.892 -2 2 l 0 16 c 0 1.108 0.892 2 2 2 l 16 0 c 1.108 0 2 -0.892 2 -2 l 0 -16 c 0 -1.108 -0.892 -2 -2 -2 l -16 0 z m 0 2 l 16 0 l 0 16 -16 0 0 -16 z" style="fill:#f4a300;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 18 12 c -1.108 0 -2 0.892 -2 2 l 0 16 c 0 1.108 0.892 2 2 2 l 16 0 c 1.108 0 2 -0.892 2 -2 l 0 -16 c 0 -1.108 -0.892 -2 -2 -2 l -16 0 m 0 2 16 0 0 16 l -16 0 0 -16" style="fill:#45abe4;opacity:1;fill-opacity:1;stroke:none"/>
+  <rect y="16" x="18" height="2" width="1" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+  <rect y="32" x="30" height="1" width="2" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ </g>
+</svg>

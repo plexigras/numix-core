@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#c9899d;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#cf97a8;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #75de4f -->
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #75de4f -->
+  </g>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 22 11 0 17.499 -8 8.5 2.693 0 5.307 -5.51 0 5.51 2 0 0 -5.51 5.307 5.51 2.693 0 -8 -8.5 0 -8.124 6.656 -7.375 4.344 0 0 -2 m -11 2 4 -0.001 -4 4.34 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#000;opacity:0.1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+ <path d="m 21 10 0 17.499 -8 8.5 2.693 0 5.307 -5.51 0 5.51 2 0 0 -5.51 5.307 5.51 2.693 0 -8 -8.5 0 -8.124 6.656 -7.375 4.344 0 0 -2 m -11 2 4 -0.001 -4 4.34 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#343434;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#dbd055;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#dfd466;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #dfd466 -->
+     <g>
+      <path d="m 14.328 27 c -0.73 0 -1.328 0.594 -1.328 1.328 l 0 2.672 l -3 0 l -1 5 l 32 0 l -1 -5 l -2.99 0 l 0 -2.672 c 0 -0.734 -0.601 -1.328 -1.328 -1.328 l -3.352 0 c -0.722 0 -1.32 0.594 -1.32 1.328 l 0 2.672 l -3.01 0 l 0 -2.672 c 0 -0.734 -0.594 -1.328 -1.328 -1.328 l -3.344 0 c -0.73 0 -1.328 0.594 -1.328 1.328 l 0 2.672 l -3 0 l 0 -2.672 c 0 -0.734 -0.594 -1.328 -1.328 -1.328 l -3.344 0 z" transform="translate(-1,-1)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #dfd466 -->
+   <g>
+    <path d="m 9,30 -1,5 32,0 -1,-5 M 9,30" style="fill:#4a4a4a;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 13.328,26 3.344,0 C 17.406,26 18,26.594 18,27.328 l 0,3.344 C 18,31.406 17.406,32 16.672,32 l -3.344,0 C 12.598,32 12,31.406 12,30.672 l 0,-3.344 C 12,26.594 12.598,26 13.328,26 m 0,0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 22.328,26 3.344,0 C 26.406,26 27,26.594 27,27.328 l 0,3.344 C 27,31.406 26.406,32 25.672,32 l -3.344,0 C 21.598,32 21,31.406 21,30.672 l 0,-3.344 C 21,26.594 21.598,26 22.328,26 m 0,0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 31.33,26 3.352,0 c 0.727,0 1.328,0.594 1.328,1.328 l 0,3.344 C 36.01,31.406 35.408,32 34.682,32 l -3.352,0 c -0.727,0 -1.32,-0.594 -1.32,-1.328 l 0,-3.344 C 30.01,26.594 30.608,26 31.33,26 m 0,0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   </g>
+  </g>
+ </g>
+ <g>
+  
+ </g>
+</svg>
