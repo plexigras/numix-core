@@ -1,21 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3781" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,0,48)">
-   <stop style="stop-color:#ff5252;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#ff6565;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#ff5252"/>
+    <stop offset="1" stop-color="#ff6565"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <path d="M 1,24 C 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 z" style="fill:url(#linearGradient3781);fill-opacity:1"/>
- <path d="m 25 18 c -7.732 0 -14 6.268 -14 14 l 28 0 c 0 -7.732 -6.268 -14 -14 -14 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <g>
-  
- </g>
- <path d="m 38 31 c 0 -7.732 -6.268 -14 -14 -14 -7.732 0 -14 6.268 -14 14 l 28 0 z" style="fill:#353535;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 33 23.466 a 3.508 3.508 0 1 1 -7.02 0 3.508 3.508 0 1 1 7.02 0 z" transform="matrix(0.99758454,0,0,0.99758454,0.07971002,0.09057889)" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 31 23 a 1 1 0 1 1 -2 0 1 1 0 1 1 2 0 z" transform="matrix(1.5,0,0,1.5,-14.5,-12)" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m1 24c0-22.703.297-23 23-23 22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23z" fill="url(#a)"/>
+  <path d="m25 18c-7.732 0-14 6.268-14 14h28c0-7.732-6.268-14-14-14z" opacity=".1"/>
+  <path d="m38 31c0-7.732-6.268-14-14-14-7.732 0-14 6.268-14 14z" fill="#353535"/>
+  <path d="m33 23.466a3.508 3.508 0 1 1-7.02 0 3.508 3.508 0 1 1  7.02 0z" fill="#f9f9f9" transform="matrix(.99758454 0 0 .99758454 .07971002 .09057889)"/>
+  <path d="m31 23a1 1 0 1 1-2 0 1 1 0 1 1  2 0z" transform="matrix(1.5 0 0 1.5 -14.5 -12)"/>
 </svg>

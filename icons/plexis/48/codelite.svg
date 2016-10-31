@@ -1,27 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#d8d8d8;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#e2e2e2;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#d8d8d8"/>
+    <stop offset="1" stop-color="#e2e2e2"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <g transform="matrix(3.543307,0,0,3.543307,-0.00118111,-0.01692832)">
-  <rect rx="0.5" y="7.06" x="3.669" height="3.387" width="3.387" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
-  <rect rx="0.5" width="3.387" height="3.387" x="7.06" y="7.06" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
-  <rect rx="0.5" y="3.669" x="5.362" height="3.387" width="3.387" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
-  <rect width="3.387" height="3.387" x="3.387" y="6.773" rx="0.5" style="fill:#d9c30a;fill-opacity:1;stroke:none"/>
-  <rect y="6.773" x="6.773" height="3.387" width="3.387" rx="0.5" style="fill:#79cc22;fill-opacity:1;stroke:none"/>
-  <rect width="3.387" height="3.387" x="5.08" y="3.387" rx="0.5" style="fill:#31c3d1;fill-opacity:1;stroke:none"/>
- </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <g transform="matrix(3.543307 0 0 3.543307 -.00118111 -.01692832)">
+    <rect height="3.387" opacity=".1" rx=".5" width="3.387" x="3.669" y="7.06"/>
+    <rect height="3.387" opacity=".1" rx=".5" width="3.387" x="7.06" y="7.06"/>
+    <rect height="3.387" opacity=".1" rx=".5" width="3.387" x="5.362" y="3.669"/>
+    <rect fill="#d9c30a" height="3.387" rx=".5" width="3.387" x="3.387" y="6.773"/>
+    <rect fill="#79cc22" height="3.387" rx=".5" width="3.387" x="6.773" y="6.773"/>
+    <rect fill="#31c3d1" height="3.387" rx=".5" width="3.387" x="5.08" y="3.387"/>
+  </g>
 </svg>

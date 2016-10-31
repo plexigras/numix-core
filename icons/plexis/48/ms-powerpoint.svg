@@ -1,39 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#db6015;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#e9671c;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#db6015"/>
+    <stop offset="1" stop-color="#e9671c"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #e9671c -->
-     <g>
-      <path d="m 15 12 l 0 4 l 3 0 l 0 20 l 5 0 l 0 -8 l 2.516 0 c 4.48 -0.207 8.02 -3.77 8 -8.05 c 0.023 -4.707 -2.109 -7.34 -7.52 -7.957 m -2.996 4 l 1 0 c 3 0 4.484 1.418 4.5 4 c 0.035 2.539 -1.5 4 -4.5 4 l -1 0 m 0 -8" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #e9671c -->
-   <g>
-    <path d="m 15 12 l 0 4 l 3 0 l 0 20 l 5 0 l 0 -8 l 2.516 0 c 4.48 -0.207 8.02 -3.77 8 -8.05 c 0.023 -4.707 -2.109 -7.34 -7.52 -7.957 m -2.996 4 l 1 0 c 3 0 4.484 1.418 4.5 4 c 0.035 2.539 -1.5 4 -4.5 4 l -1 0 m 0 -8" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   </g>
-  </g>
- </g>
- <g>
-  
- </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m15 12v4h3v20h5v-8h2.516c4.48-.207 8.02-3.77 8-8.05.023-4.707-2.109-7.34-7.52-7.957m-2.996 4h1c3 0 4.484 1.418 4.5 4 .035 2.539-1.5 4-4.5 4h-1m0-8" opacity=".1" transform="translate(1 1)"/>
+  <path d="m15 12v4h3v20h5v-8h2.516c4.48-.207 8.02-3.77 8-8.05.023-4.707-2.109-7.34-7.52-7.957m-2.996 4h1c3 0 4.484 1.418 4.5 4 .035 2.539-1.5 4-4.5 4h-1m0-8" fill="#f9f9f9"/>
 </svg>

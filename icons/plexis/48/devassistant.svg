@@ -1,28 +1,13 @@
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient x1="1" x2="47" id="linearGradient3764" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#333;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#3d3d3d;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#333"/>
+    <stop offset="1" stop-color="#3d3d3d"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g transform="matrix(0.06,0,0,0.06,13,13)" style="fill:#000;fill-opacity:0.098">
-  <path d="m 13 13 0 24 24 0 0 -24 z m 7 3 10 0 -5 5 z m -4 4 5 5 -5 5 z m 18 0 0 10 -5 -5 z m -9 9 5 5 -10 0 z" transform="matrix(16.666667,0,0,16.666667,-216.66667,-216.66667)"/>
- </g>
- <g>
-  
- </g>
- <g transform="matrix(0.06,0,0,0.06,12,12)">
-  <path d="m 0 0 400 0 0 400 z m 350 116.67 -83.33 83.33 83.33 83.33 z m -66.67 -66.67 -166.67 0 83.33 83.33 z" style="fill:#e0e1e2"/>
-  <path d="m 0 0 200 200 -200 200 z m 133.33 200 -83.33 -83.33 0 166.67 z" style="fill:#3273cd"/>
-  <path d="m 200 200 200 200 -400 0 z m 83.33 150 -83.33 -83.33 -83.33 83.33 z" style="fill:#0a4ba9"/>
- </g>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)"/>
+  <path d="m13 13v24h24v-24zm7 3h10l-5 5zm-4 4l5 5-5 5zm18 0v10l-5-5zm-9 9l5 5h-10z" fill-opacity=".098" transform="matrix(1.00000002 0 0 1.00000002 -.0000002 -.0000002)"/>
+  <g transform="matrix(.06 0 0 .06 12 12)">
+    <path d="m0 0h400v400zm350 116.67l-83.33 83.33 83.33 83.33zm-66.67-66.67h-166.67l83.33 83.33z" fill="#e0e1e2"/>
+    <path d="m0 0l200 200-200 200zm133.33 200l-83.33-83.33v166.67z" fill="#3273cd"/>
+    <path d="m200 200l200 200h-400zm83.33 150l-83.33-83.33-83.33 83.33z" fill="#0a4ba9"/>
+  </g>
 </svg>

@@ -1,21 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3878" x1="1" x2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#204a87;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#245398;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#204a87"/>
+    <stop offset="1" stop-color="#245398"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g transform="matrix(0,-1,1,0,0,48)" style="fill:url(#linearGradient3878);fill-opacity:1">
-  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z"/>
- </g>
- <g>
-  
- </g>
- <path d="m 21 13 0 3 -7 0 0 3 -2 0 0 10 26 0 0 -10 -2 0 0 -3 -7 0 0 -3 z m -2 9 4 0 0 3 -4 0 z m 8 0 4 0 0 3 -4 0 z m -8 7 0 3 -3 0 0 3 -4 0 0 3 4 0 0 -3 4 0 0 -3 3 0 0 -3 z m 4 3 0 3 4 0 0 -3 z m 4 0 3 0 0 3 4 0 0 -3 -3 0 0 -3 -4 0 z m 7 3 0 3 4 0 0 -3 z" style="visibility:visible;fill:#000;opacity:0.1;fill-opacity:1;stroke:none;display:inline;fill-rule:nonzero"/>
- <path d="m 20 12 0 3 -7 0 0 3 -2 0 0 10 26 0 0 -10 -2 0 0 -3 -7 0 0 -3 z m -2 9 4 0 0 3 -4 0 z m 8 0 4 0 0 3 -4 0 z m -8 7 0 3 -3 0 0 3 -4 0 0 3 4 0 0 -3 4 0 0 -3 3 0 0 -3 z m 4 3 0 3 4 0 0 -3 z m 4 0 3 0 0 3 4 0 0 -3 -3 0 0 -3 -4 0 z m 7 3 0 3 4 0 0 -3 z" style="visibility:visible;fill:#ffc94d;fill-opacity:1;stroke:none;display:inline;fill-rule:nonzero"/>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)" transform="matrix(0 -1 1 0 0 48)"/>
+  <path d="m21 13v3h-7v3h-2v10h26v-10h-2v-3h-7v-3zm-2 9h4v3h-4zm8 0h4v3h-4zm-8 7v3h-3v3h-4v3h4v-3h4v-3h3v-3zm4 3v3h4v-3zm4 0h3v3h4v-3h-3v-3h-4zm7 3v3h4v-3z" opacity=".1"/>
+  <path d="m20 12v3h-7v3h-2v10h26v-10h-2v-3h-7v-3zm-2 9h4v3h-4zm8 0h4v3h-4zm-8 7v3h-3v3h-4v3h4v-3h4v-3h3v-3zm4 3v3h4v-3zm4 0h3v3h4v-3h-3v-3h-4zm7 3v3h4v-3z" fill="#ffc94d"/>
 </svg>

@@ -1,43 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3845" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#4678b0;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#5082ba;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x2="0" y1="47" y2="1">
+    <stop offset="0" stop-color="#4678b0"/>
+    <stop offset="1" stop-color="#5082ba"/>
   </linearGradient>
-  <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="3.669" x2="10.442" gradientTransform="matrix(3.543307,0,0,3.543307,-1,0)">
-   <stop style="stop-color:#e2f4fb;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#f9f9f9;stop-opacity:1"/>
+  <linearGradient id="b" gradientTransform="matrix(3.543307 0 0 3.543307 -1 0)" gradientUnits="userSpaceOnUse" x1="3.669" x2="10.442">
+    <stop offset="0" stop-color="#e2f4fb"/>
+    <stop offset="1" stop-color="#f9f9f9"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient3845);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #5dba7c -->
-     <g>
-      <path d="m 12 26 8 8 16 -17 -3 -3 -13 14 -5 -5 m -3 3" style="fill:#000;stroke:none;fill-rule:evenodd"/>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #5dba7c -->
-   <g>
-    <path d="m 12 26 8 8 16 -17 -3 -3 -13 14 -5 -5 m -3 3" style="fill:url(#linear0);stroke:none;fill-rule:evenodd"/>
-   </g>
-  </g>
- </g>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)"/>
+  <path d="m12 26l8 8 16-17-3-3-13 14-5-5m-3 3" fill-rule="evenodd" opacity=".1" transform="translate(1 1)"/>
+  <path d="m12 26l8 8 16-17-3-3-13 14-5-5m-3 3" fill="url(#b)" fill-rule="evenodd"/>
 </svg>

@@ -1,31 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#3d3d3d;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#474747;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#3d3d3d"/>
+    <stop offset="1" stop-color="#474747"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <path d="m 15 13 20 0 2 2 0 20 -2 2 -20 0 -2 -2 0 -20 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <g>
-  <g>
-   <!-- color: #474747 -->
-   <g>
-    <path d="m 14 12 l -1 1 l 11 11 l 10.996 -11 l -1 -1 m -19.996 0" style="fill:#268bcf;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 33.996 36 l 1 -1 l -10.996 -10.996 l -11 10.996 l 1 1 m 19.996 0" style="fill:#6970c1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 12 33.996 l 1 1 l 11 -10.996 l -11 -11 l -1 1 m 0 19.996" style="fill:#dc2f2f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 36 14 l -1 -1 l -10.996 11 l 10.996 10.996 l 1 -1 m 0 -19.996" style="fill:#859900;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   </g>
-  </g>
- </g>
- <g>
-  
- </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m15 13h20l2 2v20l-2 2h-20l-2-2v-20z" fill-rule="evenodd" opacity=".1"/>
+  <path d="m14 12l-1 1 11 11 10.996-11-1-1m-19.996 0" fill="#268bcf"/>
+  <path d="m33.996 36l1-1-10.996-10.996-11 10.996 1 1m19.996 0" fill="#6970c1"/>
+  <path d="m12 33.996l1 1 11-10.996-11-11-1 1m0 19.996" fill="#dc2f2f"/>
+  <path d="m36 14l-1-1-10.996 11 10.996 10.996 1-1m0-19.996" fill="#859900"/>
 </svg>

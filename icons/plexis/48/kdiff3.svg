@@ -1,54 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient4182" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#98c15f;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#a1c76d;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x2="0" y1="47" y2="1">
+    <stop offset="0" stop-color="#98c15f"/>
+    <stop offset="1" stop-color="#a1c76d"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient4182);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <!-- color: #c8c8c8 -->
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)"/>
+  <path d="m12 14v19h10v3h16v-19h-10v-3z" fill-opacity=".098"/>
+  <path d="m21 16h16v19h-16z" fill="#e8ebe1"/>
+  <g fill="#aaa" transform="translate(0 1)">
+    <path d="m23 17h12v1h-12z"/>
+    <path d="m26 19h9v1h-9z"/>
+    <path d="m26 21h6v1h-6z"/>
+    <path d="m26 23h7v1h-7z"/>
+    <path d="m26 25h9v1h-9z"/>
+    <path d="m23 27h9v1h-9z"/>
+    <path d="m23 29h12v1h-12z"/>
+    <path d="m23 31h12v1h-12z"/>
   </g>
- </g>
- <g>
-  
- </g>
- <g>
-  <g>
-   <g>
-    <path d="m 12 14 0 19 10 0 0 3 16 0 0 -19 -10 0 0 -3 -16 0 z" style="fill:#000;opacity:1;fill-opacity:0.098;stroke:none;fill-rule:nonzero"/>
-    <g>
-     <rect y="16" x="21" height="19" width="16" style="fill:#e8ebe1;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-     <g transform="translate(0,1)">
-      <rect width="12" height="1" x="23" y="17" style="fill:#aaa;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <rect y="19" x="26" height="1" width="9" style="fill:#aaa;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <rect width="6" height="1" x="26" y="21" style="fill:#aaa;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <rect y="23" x="26" height="1" width="7" style="fill:#aaa;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <rect width="9" height="1" x="26" y="25" style="fill:#aaa;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <rect y="27" x="23" height="1" width="9" style="fill:#aaa;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <rect width="12" height="1" x="23" y="29" style="fill:#aaa;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <rect y="31" x="23" height="1" width="12" style="fill:#aaa;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-     </g>
-    </g>
-   </g>
-   <path d="m 21 16 0 17 7 0 0 -17 -7 0 z" style="fill:#000;opacity:1;fill-opacity:0.098;stroke:none;fill-rule:nonzero"/>
-  </g>
-  <rect y="13" x="11" height="19" width="16" style="fill:#f1f3ed;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="15" x="13" height="1" width="12" style="fill:#b4b4b4;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="9" height="1" x="13" y="17" style="fill:#b4b4b4;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="19" x="16" height="1" width="9" style="fill:#b4b4b4;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="9" height="1" x="16" y="21" style="fill:#b4b4b4;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="23" x="13" height="1" width="9" style="fill:#b4b4b4;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="9" height="1" x="13" y="25" style="fill:#b4b4b4;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="27" x="13" height="1" width="12" style="fill:#b4b4b4;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="12" height="1" x="13" y="29" style="fill:#b4b4b4;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- </g>
+  <path d="m21 16v17h7v-17z" fill-opacity=".098"/>
+  <path d="m11 13h16v19h-16z" fill="#f1f3ed"/>
+  <path d="m13 15h12v1h-12z" fill="#b4b4b4"/>
+  <path d="m13 17h9v1h-9z" fill="#b4b4b4"/>
+  <path d="m16 19h9v1h-9z" fill="#b4b4b4"/>
+  <path d="m16 21h9v1h-9z" fill="#b4b4b4"/>
+  <path d="m13 23h9v1h-9z" fill="#b4b4b4"/>
+  <path d="m13 25h9v1h-9z" fill="#b4b4b4"/>
+  <path d="m13 27h12v1h-12z" fill="#b4b4b4"/>
+  <path d="m13 29h12v1h-12z" fill="#b4b4b4"/>
 </svg>

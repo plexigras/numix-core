@@ -1,38 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#3d3d3d;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#474747;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#3d3d3d"/>
+    <stop offset="1" stop-color="#474747"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #474747 -->
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #474747 -->
-   <g>
-    <path d="m 23 14 -8.5 7 -1.816 0 c -0.379 0 -0.684 0.321 -0.684 0.719 l 0 6.563 c 0 0.395 0.305 0.719 0.684 0.719 l 1.816 0 8.5 7 0 -9 1.5 -2 -1.5 -2 m 9.5 -6 c 0 0 -5.5 8.515 -5.5 11 0 2.485 2.462 5 5.5 5 3.038 0 5.5 -2.515 5.5 -5 0 -2.485 -5.5 -11 -5.5 -11 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 22 13 -8.5 7 -1.816 0 c -0.379 0 -0.684 0.321 -0.684 0.719 l 0 6.563 c 0 0.395 0.305 0.719 0.684 0.719 l 1.816 0 8.5 7 0 -9 1.5 -2 -1.5 -2" style="fill:#c1be67;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   </g>
-  </g>
- </g>
- <g>
-  
- </g>
- <path d="m 37 27 c 0 2.485 -2.462 5 -5.5 5 -3.038 0 -5.5 -2.515 -5.5 -5 0 -2.485 5.5 -11 5.5 -11 0 0 5.5 8.515 5.5 11 z" style="fill:#fbab00;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m23 14l-8.5 7h-1.816c-.379 0-.684.321-.684.719v6.563c0 .395.305.719.684.719h1.816l8.5 7v-9l1.5-2-1.5-2m9.5-6c0 0-5.5 8.515-5.5 11 0 2.485 2.462 5 5.5 5 3.038 0 5.5-2.515 5.5-5 0-2.485-5.5-11-5.5-11z" opacity=".1"/>
+  <path d="m22 13l-8.5 7h-1.816c-.379 0-.684.321-.684.719v6.563c0 .395.305.719.684.719h1.816l8.5 7v-9l1.5-2-1.5-2" fill="#c1be67"/>
+  <path d="m37 27c0 2.485-2.462 5-5.5 5-3.038 0-5.5-2.515-5.5-5 0-2.485 5.5-11 5.5-11 0 0 5.5 8.515 5.5 11z" fill="#fbab00"/>
 </svg>

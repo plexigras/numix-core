@@ -1,26 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#e4e4e4"/>
+    <stop offset="1" stop-color="#eee"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <g>
-  <path d="m 23.25 13 c -2.623 0 -4.75 2.127 -4.75 4.75 0.003 1.803 1.026 3.45 2.643 4.25 l -1.143 0 c -0.554 0 -1 0.446 -1 1 l 0 1.5 -7 -2.5 0 13 7 -2.5 0 1.5 c 0 0.554 0.446 1 1 1 l 16 0 c 0.554 0 1 -0.446 1 -1 l 0 -11 c 0 -0.554 -0.446 -1 -1 -1 l -1.135 0 c 1.613 -0.802 2.634 -2.448 2.635 -4.25 0 -2.623 -2.127 -4.75 -4.75 -4.75 -2.623 0 -4.75 2.127 -4.75 4.75 c 0.003 1.803 1.026 3.45 2.643 4.25 l -5.277 0 c 1.613 -0.802 2.634 -2.448 2.635 -4.25 0 -2.623 -2.127 -4.75 -4.75 -4.75" style="fill:#000;fill-opacity:0.098;stroke:none;fill-rule:evenodd"/>
-  <circle r="4.75" cy="16.75" cx="22.25" style="fill:#e06f4c;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <circle r="4.75" cx="31.75" cy="16.75" style="fill:#e06f4c;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <path d="m 11 21 7 2.5 c 1.039 1.87 0.843 5.895 0 8 l -7 2.5" style="fill:#4079ba;fill-opacity:1;stroke:none"/>
-  <rect rx="1" y="21" x="18" height="13" width="18" style="fill:#5a5a5a;fill-opacity:1;stroke:none"/>
- </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m23.25 13c-2.623 0-4.75 2.127-4.75 4.75.003 1.803 1.026 3.45 2.643 4.25h-1.143c-.554 0-1 .446-1 1v1.5l-7-2.5v13l7-2.5v1.5c0 .554.446 1 1 1h16c .554 0 1-.446 1-1v-11c0-.554-.446-1-1-1h-1.135c1.613-.802 2.634-2.448 2.635-4.25 0-2.623-2.127-4.75-4.75-4.75-2.623 0-4.75 2.127-4.75 4.75.003 1.803 1.026 3.45 2.643 4.25h-5.277c1.613-.802 2.634-2.448 2.635-4.25 0-2.623-2.127-4.75-4.75-4.75" fill-opacity=".098" fill-rule="evenodd"/>
+  <circle cx="22.25" cy="16.75" fill="#e06f4c" fill-rule="evenodd" r="4.75"/>
+  <circle cx="31.75" cy="16.75" fill="#e06f4c" fill-rule="evenodd" r="4.75"/>
+  <path d="m11 21l7 2.5c1.039 1.87.843 5.895 0 8l-7 2.5" fill="#4079ba"/>
+  <rect fill="#5a5a5a" height="13" rx="1" width="18" x="18" y="21"/>
 </svg>

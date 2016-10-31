@@ -1,24 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient4372" x1="1" x2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e1e1bd;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#e7e7cb;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#e1e1bd"/>
+    <stop offset="1" stop-color="#e7e7cb"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g transform="matrix(0,-1,1,0,0,48)" style="fill:url(#linearGradient4372);fill-opacity:1">
-  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 Z"/>
- </g>
- <path d="m 19 15 -5.994 10 -0.006 0 6 10 12 0 6 -10 -6 -10 -12 0" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <path d="m 12 24 12 0 6 10 -12 0 z" style="fill:#483b32;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <path d="M 18,14 12.004,24.004 24,24 30,14 Z" style="fill:#9a8471;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <path d="m 30 14 6 10 -6 10 -6 -10" style="fill:#796758;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <g>
-  
- </g>
- <path d="m 27.467 15.996 l -8.27 0.004 l -4.197 7 l 8.424 0 l 4.04 -7 z m 1.832 0.826 l -4.145 7.178 l 4.145 7.18 l 4.307 -7.184 l -4.307 -7.174 z m -14.301 8.178 l 4.203 7 l 8.264 0 l -4.04 -7 l -8.426 0 z" style="fill:#44e2ff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)" transform="matrix(0 -1 1 0 0 48)"/>
+  <path d="m19 15l-5.994 10h-.006l6 10h12l6-10-6-10z" fill-rule="evenodd" opacity=".1"/>
+  <path d="m12 24h12l6 10h-12z" fill="#483b32" fill-rule="evenodd"/>
+  <path d="m18 14l-5.996 10.004 11.996-.004 6-10z" fill="#9a8471" fill-rule="evenodd"/>
+  <path d="m30 14l6 10-6 10-6-10" fill="#796758" fill-rule="evenodd"/>
+  <path d="m27.467 15.996l-8.27.004-4.197 7h8.424l4.04-7zm1.832.826l-4.145 7.178 4.145 7.18 4.307-7.184zm-14.301 8.178l4.203 7h8.264l-4.04-7h-8.426z" fill="#44e2ff"/>
 </svg>

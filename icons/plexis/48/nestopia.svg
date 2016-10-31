@@ -1,46 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3805" x1="1" x2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#358570;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#3b937c;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#358570"/>
+    <stop offset="1" stop-color="#3b937c"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g transform="matrix(0,-1,1,0,0,48)" style="fill:url(#linearGradient3805);fill-opacity:1">
-  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z"/>
- </g>
- <g>
-  
- </g>
- <g transform="translate(1,1)" style="fill:#000;opacity:0.1">
-  <rect width="26" height="13" x="11" y="17" style="fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- </g>
- <g>
-  <rect y="17" x="11" height="13" width="26" style="fill:#ccc;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="19" x="12" height="10" width="24" style="fill:#333;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="22" x="15" height="5" width="3" style="fill:#b3b3b3;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect transform="matrix(0,1,-1,0,0,0)" width="3" height="5" x="23" y="-19" style="fill:#b3b3b3;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="19" x="21" height="1" width="6" style="fill:#999;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="6" height="1" x="21" y="23" style="fill:#999;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="6" height="2" x="21" y="25" style="fill:#b3b3b3;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="21" x="21" height="1" width="6" style="fill:#999;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="6" height="1" x="21" y="28" style="fill:#999;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="25.751" x="21.665" height="0.5" width="2" style="fill:#333;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="2" height="0.5" x="24.333" y="25.751" style="fill:#333;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="3" height="3" x="32" y="24" style="fill:#b3b3b3;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <g transform="translate(0,-1)">
-   <rect width="3" height="3" x="28" y="25" style="fill:#b3b3b3;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <g>
-    <circle transform="matrix(0.83333333,0,0,0.83333333,54.916667,11.083333)" cx="-30.5" cy="18.5" r="1.5" style="fill:#d40000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   </g>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)" transform="matrix(0 -1 1 0 0 48)"/>
+  <path d="m11 17h26v13h-26z" opacity=".1" transform="translate(1 1)"/>
+  <path d="m11 17h26v13h-26z" fill="#ccc"/>
+  <path d="m12 19h24v10h-24z" fill="#333"/>
+  <path d="m15 22h3v5h-3z" fill="#b3b3b3"/>
+  <path d="m23-19h3v5h-3z" fill="#b3b3b3" transform="rotate(90)"/>
+  <path d="m21 19h6v1h-6z" fill="#999"/>
+  <path d="m21 23h6v1h-6z" fill="#999"/>
+  <path d="m21 25h6v2h-6z" fill="#b3b3b3"/>
+  <path d="m21 21h6v1h-6z" fill="#999"/>
+  <path d="m21 28h6v1h-6z" fill="#999"/>
+  <path d="m21.665 25.751h2v .5h-2z" fill="#333"/>
+  <path d="m24.333 25.751h2v .5h-2z" fill="#333"/>
+  <path d="m32 24h3v3h-3z" fill="#b3b3b3"/>
+  <g transform="translate(0 -1)">
+    <path d="m28 25h3v3h-3z" fill="#b3b3b3"/>
+    <circle cx="-30.5" cy="18.5" fill="#d40000" r="1.5" transform="matrix(.83333333 0 0 .83333333 54.916667 11.083333)"/>
   </g>
-  <circle transform="matrix(0.83333333,0,0,0.83333333,58.916667,10.083333)" cx="-30.5" cy="18.5" r="1.5" style="fill:#d40000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="21" x="28" height="1" width="7" style="fill:#a00;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="24" x="15" height="1" width="3" style="fill:#333;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="23" x="16" height="3" width="1" style="fill:#333;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- </g>
+  <circle cx="-30.5" cy="18.5" fill="#d40000" r="1.5" transform="matrix(.83333333 0 0 .83333333 58.916667 10.083333)"/>
+  <path d="m28 21h7v1h-7z" fill="#a00"/>
+  <path d="m15 24h3v1h-3z" fill="#333"/>
+  <path d="m16 23h1v3h-1z" fill="#333"/>
 </svg>

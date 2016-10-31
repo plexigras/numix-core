@@ -1,35 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#ede9ce;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#f3f0dd;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#ede9ce"/>
+    <stop offset="1" stop-color="#f3f0dd"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <g transform="scale(3.543307,3.543307)">
-  <g transform="matrix(0.28222223,0,0,0.28222223,0.28222231,0.28222228)" style="fill:#000;fill-opacity:0.098">
-   <rect width="15" height="3" x="21" y="12" style="stroke:none;fill-rule:evenodd"/>
-   <rect y="33" x="21" height="3" width="15" style="stroke:none;fill-rule:evenodd"/>
-   <rect width="10" height="3" x="26" y="26" style="stroke:none;fill-rule:evenodd"/>
-   <rect y="19.1" x="26" height="3" width="10" style="stroke:none;fill-rule:evenodd"/>
-   <path d="m 12 14 0 20 2 0 c 1 -5 4 -8 9 -10 -5 -2 -8 -6 -9 -10 z" style="stroke:none"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <g transform="scale(3.543307)">
+    <g fill-opacity=".098" transform="matrix(.28222223 0 0 .28222223 .28222231 .28222228)">
+      <path d="m21 12h15v3h-15z" fill-rule="evenodd"/>
+      <path d="m21 33h15v3h-15z" fill-rule="evenodd"/>
+      <path d="m26 26h10v3h-10z" fill-rule="evenodd"/>
+      <path d="m26 19.1h10v3h-10z" fill-rule="evenodd"/>
+      <path d="m12 14v20h2c1-5 4-8 9-10-5-2-8-6-9-10z"/>
+    </g>
+    <g transform="scale(.28222223)">
+      <path d="m21 12h15v3h-15z" fill="#8989cb" fill-rule="evenodd"/>
+      <path d="m21 33h15v3h-15z" fill="#8989cb" fill-rule="evenodd"/>
+      <path d="m26 26h10v3h-10z" fill="#49a749" fill-rule="evenodd"/>
+      <path d="m26 19.1h10v3h-10z" fill="#49a749" fill-rule="evenodd"/>
+      <path d="m12 14v20h2c1-5 4-8 9-10-5-2-8-6-9-10z" fill="#49a749"/>
+    </g>
   </g>
-  <g transform="scale(0.28222223,0.28222223)">
-   <rect y="12" x="21" height="3" width="15" style="fill:#8989cb;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <rect width="15" height="3" x="21" y="33" style="fill:#8989cb;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <rect y="26" x="26" height="3" width="10" style="fill:#49a749;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <rect width="10" height="3" x="26" y="19.1" style="fill:#49a749;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <path d="m 12 14 0 20 2 0 c 1 -5 4 -8 9 -10 -5 -2 -8 -6 -9 -10 z" style="fill:#49a749;fill-opacity:1;stroke:none"/>
-  </g>
- </g>
 </svg>

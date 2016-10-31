@@ -1,35 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#e4e4e4"/>
+    <stop offset="1" stop-color="#eee"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <g>
-  <g transform="matrix(-1,0,0,-1,41,45)">
-   <path transform="matrix(-1,0,0,-1,41,45)" d="m 19 12 c -5 0 -5 4 -5 6 l 0 12.998 c 0 1.109 0 2 1 2 l 0 5 8 0 0 -5 c 1 0 1 -0.893 1 -2 l 0 -12.998 c 0 -2 0 -6 -5 -6 z" style="fill:#000;fill-opacity:0.098;stroke:none"/>
-   <rect width="8" height="6" x="19" y="-14" transform="scale(1,-1)" style="fill:#758c95;fill-opacity:1;stroke:none"/>
-   <path d="m 23 34 c 5 0 5 -4 5 -6 l 0 -12.999 c 0 -1.109 0 -2 -1 -2 l -8 0 c -1 0 -1 0.892 -1 2 l 0 12.999 c 0 2 0 6 5 6 z" style="fill:#935799;fill-opacity:1;stroke:none"/>
-   <rect width="2" height="2" x="20" y="-11" transform="scale(1,-1)" style="fill:#083b48;opacity:0.654;fill-opacity:1;stroke:none"/>
-   <rect width="2" height="2" x="24" y="-11" transform="scale(1,-1)" style="fill:#083b48;opacity:0.654;fill-opacity:1;stroke:none"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <g transform="matrix(-1 0 0 -1 41 45)">
+    <path d="m19 12c-5 0-5 4-5 6v12.998c0 1.109 0 2 1 2v5h8v-5c1 0 1-.893 1-2v-12.998c0-2 0-6-5-6z" fill-opacity=".098" transform="matrix(-1 0 0 -1 41 45)"/>
+    <path d="m19-14h8v6h-8z" fill="#758c95" transform="scale(1 -1)"/>
+    <path d="m23 34c5 0 5-4 5-6v-12.999c0-1.109 0-2-1-2h-8c-1 0-1 .892-1 2v12.999c0 2 0 6 5 6z" fill="#935799"/>
+    <path d="m20-11h2v2h-2z" fill="#083b48" opacity=".654" transform="scale(1 -1)"/>
+    <path d="m24-11h2v2h-2z" fill="#083b48" opacity=".654" transform="scale(1 -1)"/>
   </g>
-  <g transform="matrix(-1,0,0,-1,53,45)">
-   <path transform="matrix(-1,0,0,-1,53,45)" d="m 31 12 c -5 0 -5 4 -5 6 l 0 12.998 c 0 1.109 0 2 1 2 l 0 5 8 0 0 -5 c 1 0 1 -0.893 1 -2 l 0 -12.998 c 0 -2 0 -6 -5 -6 z" style="fill:#000;fill-opacity:0.098;stroke:none"/>
-   <rect transform="scale(1,-1)" y="-14" x="19" height="6" width="8" style="fill:#758c95;fill-opacity:1;stroke:none"/>
-   <path d="m 23 34 c 5 0 5 -4 5 -6 l 0 -12.999 c 0 -1.109 0 -2 -1 -2 l -8 0 c -1 0 -1 0.892 -1 2 l 0 12.999 c 0 2 0 6 5 6 z" style="fill:#935799;fill-opacity:1;stroke:none"/>
-   <rect transform="scale(1,-1)" y="-11" x="20" height="2" width="2" style="fill:#083b48;opacity:0.654;fill-opacity:1;stroke:none"/>
-   <rect transform="scale(1,-1)" y="-11" x="24" height="2" width="2" style="fill:#083b48;opacity:0.654;fill-opacity:1;stroke:none"/>
+  <g transform="matrix(-1 0 0 -1 53 45)">
+    <path d="m31 12c-5 0-5 4-5 6v12.998c0 1.109 0 2 1 2v5h8v-5c1 0 1-.893 1-2v-12.998c0-2 0-6-5-6z" fill-opacity=".098" transform="matrix(-1 0 0 -1 53 45)"/>
+    <path d="m19-14h8v6h-8z" fill="#758c95" transform="scale(1 -1)"/>
+    <path d="m23 34c5 0 5-4 5-6v-12.999c0-1.109 0-2-1-2h-8c-1 0-1 .892-1 2v12.999c0 2 0 6 5 6z" fill="#935799"/>
+    <path d="m20-11h2v2h-2z" fill="#083b48" opacity=".654" transform="scale(1 -1)"/>
+    <path d="m24-11h2v2h-2z" fill="#083b48" opacity=".654" transform="scale(1 -1)"/>
   </g>
- </g>
 </svg>

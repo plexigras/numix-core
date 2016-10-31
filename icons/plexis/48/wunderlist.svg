@@ -1,47 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linear0" gradientUnits="userSpaceOnUse" y1="1009.36" x2="0" y2="1039.36" gradientTransform="matrix(1,0,0,1,-0.0000000472441,-1006.3622)">
-   <stop style="stop-color:#f45b45;stop-opacity:1"/>
-   <stop offset="0.5" style="stop-color:#db3d28;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#f45b45;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="translate(-.00000005 -1006.3622)" gradientUnits="userSpaceOnUse" x2="0" y1="1009.36" y2="1039.36">
+    <stop offset="0" stop-color="#f45b45"/>
+    <stop offset=".5" stop-color="#db3d28"/>
+    <stop offset="1" stop-color="#f45b45"/>
   </linearGradient>
-  <linearGradient xlink:href="#linear0" id="linearGradient3064" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)" x1="1" x2="47"/>
-  <linearGradient id="linearGradient3834" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)" x1="1" x2="47">
-   <stop style="stop-color:#eaeaea;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#f4f4f4;stop-opacity:1"/>
+  <linearGradient id="b" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47" xlink:href="#a"/>
+  <linearGradient id="c" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#eaeaea"/>
+    <stop offset="1" stop-color="#f4f4f4"/>
   </linearGradient>
-  <linearGradient xlink:href="#linear0" id="linearGradient3578" gradientUnits="userSpaceOnUse" gradientTransform="translate(-4.72441e-8,-1006.3622)" y1="1009.36" x2="0" y2="1039.36"/>
- </defs>
- <g>
-  
-  
-  
- </g>
- <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z" style="fill:url(#linearGradient3064);fill-opacity:1"/>
- <g transform="matrix(0.82608696,0,0,0.82608696,4.1739131,4.1739131)">
-  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z" style="fill:url(#linearGradient3834);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #f4f4f4 -->
-     <g>
-      <path d="m 17 4 0 30 8 -7.813 8 7.813 0.006 0 l -0.006 -27 m -8 5 2 4 5 0 -4 4 1.998 4.994 l -4.998 -3.494 -4.98 3.486 1.98 -4.986 l -4 -4 5 0 z" transform="translate(-1,-1)"/>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #f4f4f4 -->
-   <g>
-    <path d="m 16 4 0 29 8 -7.813 7.939 7.813 0.006 0 0.055 0 0.006 -12 l -0.006 0 0 -17 m -8 7 2 4 5 0 -4 4 1.998 4.994 l -4.998 -3.494 -4.98 3.486 1.98 -4.986 l -4 -4 5 0 z" style="fill:url(#linearGradient3578)"/>
-   </g>
-  </g>
- </g>
- <g>
-  
- </g>
+  <linearGradient id="d" gradientTransform="translate(-.00000005 -1006.3622)" gradientUnits="userSpaceOnUse" x2="0" xlink:href="#a" y1="1009.36" y2="1039.36"/>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#b)"/>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#c)" transform="matrix(.82608696 0 0 .82608696 4.1739131 4.1739131)"/>
+  <path d="m17 4v30l8-7.813 8 7.813h.006l-.006-27m-8 5l2 4h5l-4 4 1.998 4.994-4.998-3.494-4.98 3.486 1.98-4.986-4-4h5z" opacity=".1" transform=""/>
+  <path d="m16 4v29l8-7.813 7.939 7.813h.006.055l.006-12h-.006v-17m-8 7l2 4h5l-4 4 1.998 4.994-4.998-3.494-4.98 3.486 1.98-4.986-4-4h5z" fill="url(#d)"/>
 </svg>

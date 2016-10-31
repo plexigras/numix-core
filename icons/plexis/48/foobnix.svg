@@ -1,37 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient4234" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#356193;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#3a6ba2;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x2="0" y1="47" y2="1">
+    <stop offset="0" stop-color="#356193"/>
+    <stop offset="1" stop-color="#3a6ba2"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient4234);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #474747 -->
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #474747 -->
-   <g>
-    <path d="m 16.543 13 c -1.957 0 -3.543 1.586 -3.543 3.543 l 0 16.914 c 0 1.957 1.586 3.543 3.543 3.543 l 16.914 0 c 1.957 0 3.543 -1.586 3.543 -3.543 l 0 -16.914 c 0 -1.957 -1.586 -3.543 -3.543 -3.543 l -16.914 0 m 3.457 4 12 8 -12 8 0 -16" style="fill:#000;fill-opacity:0.098"/>
-    <path d="m 15.543 12 c -1.957 0 -3.543 1.586 -3.543 3.543 l 0 16.914 c 0 1.957 1.586 3.543 3.543 3.543 l 16.914 0 c 1.957 0 3.543 -1.586 3.543 -3.543 l 0 -16.914 c 0 -1.957 -1.586 -3.543 -3.543 -3.543 l -16.914 0 z m 3.457 4 l 12 8 l -12 8 l 0 -16 z" style="fill:#e6e6e6;fill-opacity:1"/>
-   </g>
-  </g>
- </g>
- <g>
-  
- </g>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)"/>
+  <path d="m16.543 13c-1.957 0-3.543 1.586-3.543 3.543v16.914c0 1.957 1.586 3.543 3.543 3.543h16.914c1.957 0 3.543-1.586 3.543-3.543v-16.914c0-1.957-1.586-3.543-3.543-3.543zm3.457 4l12 8-12 8z" fill-opacity=".098"/>
+  <path d="m15.543 12c-1.957 0-3.543 1.586-3.543 3.543v16.914c0 1.957 1.586 3.543 3.543 3.543h16.914c1.957 0 3.543-1.586 3.543-3.543v-16.914c0-1.957-1.586-3.543-3.543-3.543zm3.457 4l12 8-12 8z" fill="#e6e6e6"/>
 </svg>

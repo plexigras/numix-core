@@ -1,63 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#3d3d3d;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#474747;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#3d3d3d"/>
+    <stop offset="1" stop-color="#474747"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <g transform="translate(0,2)" style="fill:#000;opacity:0.1">
-  <rect width="21" height="24" x="15" y="11" style="fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="9" x="18" height="4" width="2" style="fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <g transform="matrix(0.68965061,0.68022132,-0.66578267,0.70460687,40.466817,18.228738)">
-   <rect y="2" x="-8" height="3" width="2" style="fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect y="4" x="-8" height="1" width="2" style="fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <g opacity=".1" transform="translate(0 2)">
+    <path d="m15 11h21v24h-21z"/>
+    <path d="m18 9h2v4h-2z"/>
+    <g transform="matrix(.68965061 .68022132 -.66578267 .70460687 40.466817 18.228738)">
+      <path d="m-8 2h2v3h-2z"/>
+      <path d="m-8 4h2v1h-2z"/>
+    </g>
+    <path d="m22 9h2v4h-2z"/>
+    <path d="m28 9h2v4h-2z"/>
+    <path d="m32 9h2v4h-2z"/>
   </g>
-  <rect width="2" height="4" x="22" y="9" style="fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="9" x="28" height="4" width="2" style="fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="2" height="4" x="32" y="9" style="fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- </g>
- <g>
-  <g>
-   <rect width="21" height="24" x="14" y="12" style="fill:#e3dedb;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <ellipse transform="matrix(0.875,0,0,0.77777778,31,22.555556)" cx="0" cy="11.5" rx="4" ry="4.5" style="fill:#4d4d4d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <g transform="matrix(0.19285716,0,0,0.19565217,26.168029,26.899109)" style="opacity:0.7">
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,46.603773,4.0851067)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#ff2a2a;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,39.603773,10.085107)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#ff2a2a;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,33.603773,16.085107)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#d40000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,42.603773,16.085107)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#f55;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,49.603773,10.085107)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#f55;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,51.603773,16.085107)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#faa;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,53.603773,22.085107)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,44.603773,22.085107)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#faa;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <ellipse transform="matrix(0.46383647,0,0,0.52304963,36.603773,22.085107)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#d40000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   </g>
+  <path d="m14 12h21v24h-21z" fill="#e3dedb"/>
+  <ellipse cy="11.5" fill="#4d4d4d" rx="4" ry="4.5" transform="matrix(.875 0 0 .77777778 31 22.555556)"/>
+  <g opacity=".7" transform="matrix(.19285716 0 0 .19565217 26.168029 26.899109)">
+    <ellipse cx="-41.19" cy="18" fill="#ff2a2a" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 46.603773 4.0851067)"/>
+    <ellipse cx="-41.19" cy="18" fill="#ff2a2a" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 39.603773 10.085107)"/>
+    <ellipse cx="-41.19" cy="18" fill="#d40000" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 33.603773 16.085107)"/>
+    <ellipse cx="-41.19" cy="18" fill="#f55" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 42.603773 16.085107)"/>
+    <ellipse cx="-41.19" cy="18" fill="#f55" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 49.603773 10.085107)"/>
+    <ellipse cx="-41.19" cy="18" fill="#faa" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 51.603773 16.085107)"/>
+    <ellipse cx="-41.19" cy="18" fill="#f9f9f9" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 53.603773 22.085107)"/>
+    <ellipse cx="-41.19" cy="18" fill="#faa" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 44.603773 22.085107)"/>
+    <ellipse cx="-41.19" cy="18" fill="#d40000" rx="5.39" ry="4.78" transform="matrix(.46383647 0 0 .52304963 36.603773 22.085107)"/>
   </g>
-  <rect width="2" height="4" x="17" y="10" style="fill:#fc0;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="17" x="17" height="1" width="15" style="fill:#808080;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="10" height="1" x="17" y="20" style="fill:#808080;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="15" height="1" x="17" y="23" style="fill:#808080;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="26" x="17" height="1" width="9" style="fill:#808080;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <g transform="matrix(0.68965061,0.68022132,-0.66578267,0.70460687,39.466817,19.228738)">
-   <rect width="2" height="19" x="-8" y="5" style="fill:#ffd42a;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="2" height="3" x="-8" y="2" style="fill:#c83737;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <path d="m -8 24 2 0 -1 4 z" style="fill:#ffe680;stroke:none"/>
-   <rect width="2" height="1" x="-8" y="4" style="fill:#f4d7d7;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="1" height="19" x="-7" y="5" style="fill:#d4aa00;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <path d="m -6.481 26 -0.519 2 -0.492 -2 c 0.353 0 0.657 0 1.01 0 z" style="fill:#000;stroke:none"/>
+  <path d="m17 10h2v4h-2z" fill="#fc0"/>
+  <path d="m17 17h15v1h-15z" fill="#808080"/>
+  <path d="m17 20h10v1h-10z" fill="#808080"/>
+  <path d="m17 23h15v1h-15z" fill="#808080"/>
+  <path d="m17 26h9v1h-9z" fill="#808080"/>
+  <g transform="matrix(.68965061 .68022132 -.66578267 .70460687 39.466817 19.228738)">
+    <path d="m-8 5h2v19h-2z" fill="#ffd42a"/>
+    <path d="m-8 2h2v3h-2z" fill="#c83737"/>
+    <path d="m-8 24h2l-1 4z" fill="#ffe680"/>
+    <path d="m-8 4h2v1h-2z" fill="#f4d7d7"/>
+    <path d="m-7 5h1v19h-1z" fill="#d4aa00"/>
+    <path d="m-6.481 26l-.519 2-.492-2c .353 0 .657 0 1.01 0z"/>
   </g>
-  <rect y="10" x="21" height="4" width="2" style="fill:#fc0;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="2" height="4" x="27" y="10" style="fill:#fc0;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="10" x="31" height="4" width="2" style="fill:#fc0;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- </g>
+  <path d="m21 10h2v4h-2z" fill="#fc0"/>
+  <path d="m27 10h2v4h-2z" fill="#fc0"/>
+  <path d="m31 10h2v4h-2z" fill="#fc0"/>
 </svg>

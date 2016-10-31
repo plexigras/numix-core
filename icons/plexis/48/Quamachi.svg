@@ -1,21 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#2196d2;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#2aa1de;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#2196d2"/>
+    <stop offset="1" stop-color="#2aa1de"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <path d="m 21 12 a 6 6 0 0 0 -6 6 6 6 0 0 0 6 6 6 6 0 0 0 6 -6 6 6 0 0 0 -6 -6 z m 12 7 a 6 6 0 0 0 -6 6 6 6 0 0 0 6 6 6 6 0 0 0 6 -6 6 6 0 0 0 -6 -6 z m -12 7 a 6 6 0 0 0 -6 6 6 6 0 0 0 6 6 6 6 0 0 0 6 -6 6 6 0 0 0 -6 -6 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
- <path d="M 20 11 A 6 6 0 0 0 14 17 A 6 6 0 0 0 20 23 A 6 6 0 0 0 26 17 A 6 6 0 0 0 20 11 z M 32 18 A 6 6 0 0 0 26 24 A 6 6 0 0 0 32 30 A 6 6 0 0 0 38 24 A 6 6 0 0 0 32 18 z M 20 25 A 6 6 0 0 0 14 31 A 6 6 0 0 0 20 37 A 6 6 0 0 0 26 31 A 6 6 0 0 0 20 25 z" style="fill:#dcf0fc;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m21 12a6 6 0 0 0-6 6 6 6 0 0 0  6 6 6 6 0 0 0  6-6 6 6 0 0 0-6-6zm12 7a6 6 0 0 0-6 6 6 6 0 0 0  6 6 6 6 0 0 0  6-6 6 6 0 0 0-6-6zm-12 7a6 6 0 0 0-6 6 6 6 0 0 0  6 6 6 6 0 0 0  6-6 6 6 0 0 0-6-6z" opacity=".1"/>
+  <path d="m20 11a6 6 0 0 0-6 6 6 6 0 0 0  6 6 6 6 0 0 0  6-6 6 6 0 0 0-6-6zm12 7a6 6 0 0 0-6 6 6 6 0 0 0  6 6 6 6 0 0 0  6-6 6 6 0 0 0-6-6zm-12 7a6 6 0 0 0-6 6 6 6 0 0 0  6 6 6 6 0 0 0  6-6 6 6 0 0 0-6-6z" fill="#dcf0fc"/>
 </svg>

@@ -1,38 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#e4e4e4"/>
+    <stop offset="1" stop-color="#eee"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g transform="translate(2.0004178,0)">
-  <g>
-   <!-- color: #eeeeee -->
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <g fill-opacity=".098" transform="translate(1 1)">
+    <path d="m24 21a3 3 0 0 0-3 3 3 3 0 0 0  3 3 3 3 0 0 0  3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1  2-2z" fill-rule="evenodd"/>
+    <circle cx="14" cy="24" r="5"/>
+    <circle cx="24" cy="14" r="5"/>
+    <circle cx="24" cy="34" r="5"/>
+    <circle cx="34" cy="24" r="5"/>
   </g>
- </g>
- <g>
-  
- </g>
- <g transform="translate(1,1)" style="fill:#000;fill-opacity:0.098">
-  <path d="m 24 21 a 3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3 z m 0 1 a 2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2 z" style="stroke:none;fill-rule:evenodd"/>
-  <circle cx="14" cy="24" r="5" style="stroke:none"/>
-  <circle cx="24" cy="14" r="5" style="stroke:none"/>
-  <circle r="5" cy="34" cx="24" style="stroke:none"/>
-  <circle r="5" cy="24" cx="34" style="stroke:none"/>
- </g>
- <g>
-  <path d="m 24 21 a 3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3 z m 0 1 a 2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2 z" style="fill:#333;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <circle r="5" cy="24" cx="14" style="fill:#20c834;fill-opacity:1;stroke:none"/>
-  <circle r="5" cy="14" cx="24" style="fill:#fb7c2e;fill-opacity:1;stroke:none"/>
-  <circle cx="24" cy="34" r="5" style="fill:#f22695;fill-opacity:1;stroke:none"/>
-  <circle cx="34" cy="24" r="5" style="fill:#27b1c1;fill-opacity:1;stroke:none"/>
- </g>
+  <path d="m24 21a3 3 0 0 0-3 3 3 3 0 0 0  3 3 3 3 0 0 0  3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1  2-2z" fill="#333" fill-rule="evenodd"/>
+  <circle cx="14" cy="24" fill="#20c834" r="5"/>
+  <circle cx="24" cy="14" fill="#fb7c2e" r="5"/>
+  <circle cx="24" cy="34" fill="#f22695" r="5"/>
+  <circle cx="34" cy="24" fill="#27b1c1" r="5"/>
 </svg>

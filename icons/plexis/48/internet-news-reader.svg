@@ -1,25 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#d6740a;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#e97e0b;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#d6740a"/>
+    <stop offset="1" stop-color="#e97e0b"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <path d="m 13,12 0,5 3,0 a 17,17 0 0 1 17,17 l 0,3 5,0 0,-3 A 22,22 0 0 0 16,12 l -3,0 z m 0,10 0,5 2.5,0 c 4.142,0 7.5,3.358 7.5,7.5 l 0,2.5 5,0 0,-2.5 C 28,27.596 22.404,22 15.5,22 L 13,22 m 3,9 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
- <g transform="translate(0,-1)">
-  <circle r="3" cy="34" cx="15" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 12,22 0,5 2.5,0 c 4.142,0 7.5,3.358 7.5,7.5 l 0,2.5 5,0 0,-2.5 C 27,27.596 21.404,22 14.5,22" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 12,12 0,5 3,0 a 17,17 0 0 1 17,17 l 0,3 5,0 0,-3 A 22,22 0 0 0 15,12 l -3,0 z" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
- </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m13 12v5h3a17 17 0 0 1 17 17v3h5v-3a22 22 0 0 0-22-22zm0 10v5h2.5c4.142 0 7.5 3.358 7.5 7.5v2.5h5v-2.5c0-6.904-5.596-12.5-12.5-12.5zm3 9a3 3 0 0 0-3 3 3 3 0 0 0  3 3 3 3 0 0 0  3-3 3 3 0 0 0-3-3z" opacity=".1"/>
+  <g fill="#f9f9f9" transform="translate(0 -1)">
+    <circle cx="15" cy="34" r="3"/>
+    <path d="m12 22v5h2.5c4.142 0 7.5 3.358 7.5 7.5v2.5h5v-2.5c0-6.904-5.596-12.5-12.5-12.5"/>
+    <path d="m12 12v5h3a17 17 0 0 1 17 17v3h5v-3a22 22 0 0 0-22-22z"/>
+  </g>
 </svg>

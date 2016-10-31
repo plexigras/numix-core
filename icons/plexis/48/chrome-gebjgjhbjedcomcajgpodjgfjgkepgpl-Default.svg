@@ -1,21 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3837" x1="1" x2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e3120c;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#f21812;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#e3120c"/>
+    <stop offset="1" stop-color="#f21812"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g transform="matrix(0,-1,1,0,0,48)" style="fill:url(#linearGradient3837);fill-opacity:1">
-  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z"/>
- </g>
- <g>
-  
- </g>
- <path d="m 14 37 0 -1 c 2 0 4 -0.503 4 -2 l 0 -18 c 0 -1.54 -2 -2 -4 -2 l 0 -1 19.695 0 0.305 6 -1 0 c 0 -1 -0.544 -4 -3 -4 l 0 0 -8 0 0 9 7 0 c 1.557 0 2 -1 2 -3 l 1 0 0 8 -1 0 c 0 -2 -0.547 -3 -2 -3 l -7 0 0 7 c 0 1 1 2 2 2 l 6 0 c 2 0 3.912 -0.877 4.458 -4 l 1.119 0 -0.576 6 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
- <path d="m 13 36 0 -1 c 2 0 4 -0.503 4 -2 l 0 -18 c 0 -1.54 -2 -2 -4 -2 l 0 -1 19.695 0 0.305 6 -1 0 c 0 -1 -0.544 -4 -3 -4 l 0 0 -8 0 0 9 7 0 c 1.557 0 2 -1 2 -3 l 1 0 0 8 -1 0 c 0 -2 -0.547 -3 -2 -3 l -7 0 0 7 c 0 1 1 2 2 2 l 6 0 c 2 0 3.912 -0.877 4.458 -4 l 1.119 0 -0.576 6 z" style="fill:#eeeae6;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)" transform="matrix(0 -1 1 0 0 48)"/>
+  <path d="m14 37v-1c2 0 4-.503 4-2v-18c0-1.54-2-2-4-2v-1h19.695l.305 6h-1c0-1-.544-4-3-4l0 0h-8v9h7c1.557 0 2-1 2-3h1v8h-1c0-2-.547-3-2-3h-7v7c0 1 1 2 2 2h6c2 0 3.912-.877 4.458-4h1.119l-.576 6z" opacity=".1"/>
+  <path d="m13 36v-1c2 0 4-.503 4-2v-18c0-1.54-2-2-4-2v-1h19.695l.305 6h-1c0-1-.544-4-3-4l0 0h-8v9h7c1.557 0 2-1 2-3h1v8h-1c0-2-.547-3-2-3h-7v7c0 1 1 2 2 2h6c2 0 3.912-.877 4.458-4h1.119l-.576 6z" fill="#eeeae6"/>
 </svg>

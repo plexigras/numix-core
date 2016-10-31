@@ -1,29 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient4283" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#1f53b3;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#225bc4;stop-opacity:0.99"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x2="0" y1="47" y2="1">
+    <stop offset="0" stop-color="#1f53b3"/>
+    <stop offset="1" stop-color="#225bc4" stop-opacity=".99"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient4283);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <!-- color: #7dc06d -->
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)"/>
+  <g transform="translate(0 -.99986481)">
+    <path d="m12 32.5c0 1.997301 7-2.5 9-5.5h8c2 3 9 7.46954 9 5.5 0-12.5-3-15.5-13-15.5-10 0-13 3-13 15.5z" fill-opacity=".098"/>
+    <path d="m11 31.5c0 1.997301 7-2.5 9-5.5h8c2 3 9 7.46954 9 5.5 0-12.5-3-15.5-13-15.5-10 0-13 3-13 15.5z" fill="#ececec"/>
+    <path d="m18 19v2h-2v1h2v2h1v-2h2v-1h-2v-2zm10 0a1 1 0 0 0-1 1 1 1 0 0 0  1 1 1 1 0 0 0  1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0  1 1 1 1 0 0 0  1-1 1 1 0 0 0-1-1zm-3 3a1 1 0 0 0-1 1 1 1 0 0 0  1 1 1 1 0 0 0  1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0  1 1 1 1 0 0 0  1-1 1 1 0 0 0-1-1z" fill="#4b4b4b"/>
   </g>
- </g>
- <g>
-  
- </g>
- <g transform="translate(0,-0.99986481)">
-  <path d="m 12,32.5 c 0,1.997301 7,-2.5 9,-5.5 l 8,0 c 2,3 9,7.46954 9,5.5 C 38,20 35,17 25,17 15,17 12,20 12,32.5 Z" style="fill:#000;fill-opacity:0.098"/>
-  <path d="m 11,31.5 c 0,1.997301 7,-2.5 9,-5.5 l 8,0 c 2,3 9,7.46954 9,5.5 C 37,19 34,16 24,16 14,16 11,19 11,31.5 Z" style="fill:#ececec;fill-opacity:1"/>
-  <path d="m 18 19 0 2 -2 0 0 1 2 0 0 2 1 0 0 -2 2 0 0 -1 -2 0 0 -2 -1 0 z m 10 0 a 1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1 z m 3 0 a 1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1 z m -3 3 a 1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1 z m 3 0 a 1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1 z" style="fill:#4b4b4b;fill-opacity:1"/>
- </g>
 </svg>

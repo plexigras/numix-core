@@ -1,26 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#3a3a3a;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#444;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#3a3a3a"/>
+    <stop offset="1" stop-color="#444"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <g transform="matrix(0.11743631,0,0,0.11743631,34.076433,46.16242)" style="fill:#000;opacity:0.1;fill-opacity:1">
-  <circle r="127.73" cy="-180.2" cx="-77.29" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;opacity:1;image-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
- </g>
- <g transform="matrix(0.11743631,0,0,0.11743631,33.076433,45.162421)">
-  <circle r="127.73" cy="-180.2" cx="-77.29" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#d9d941;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
- </g>
- <path d="M 17.5 12.742 A 13 13 0 0 0 11 24 L 20 24 A 4 4 0 0 0 22 27.461 L 17.5 35.26 A 13 13 0 0 0 30.5 35.26 L 25.998 27.459 A 4 4 0 0 0 28 24 L 37 24 A 13 13 0 0 0 30.5 12.742 L 25.998 20.539 A 4 4 0 0 0 24 20 A 4 4 0 0 0 22 20.541 L 17.5 12.742 z M 24 22 A 2 2 0 0 1 26 24 A 2 2 0 0 1 24 26 A 2 2 0 0 1 22 24 A 2 2 0 0 1 24 22 z" mix-blend-mode="normal" solid-color="#000000" isolation="auto" solid-opacity="1" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#282828;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <circle cx="-77.29" cy="-180.2" fill-rule="evenodd" opacity=".1" r="127.73" transform="matrix(.11743631 0 0 .11743631 34.076433 46.16242)"/>
+  <circle cx="-77.29" cy="-180.2" fill="#d9d941" fill-rule="evenodd" r="127.73" transform="matrix(.11743631 0 0 .11743631 33.076433 45.162421)"/>
+  <path d="m17.5 12.742a13 13 0 0 0-6.5 11.258h9a4 4 0 0 0 2 3.461l-4.5 7.799a13 13 0 0 0 13 0l-4.502-7.801a4 4 0 0 0 2.002-3.459h9a13 13 0 0 0-6.5-11.258l-4.502 7.797a4 4 0 0 0-1.998-.539 4 4 0 0 0-2 .541zm6.5 9.258a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1  2-2z" fill="#282828" fill-rule="evenodd"/>
 </svg>

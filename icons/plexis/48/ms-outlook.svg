@@ -1,39 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#e99d0b;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#f4aa15;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#e99d0b"/>
+    <stop offset="1" stop-color="#f4aa15"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #f4aa15 -->
-     <g>
-      <path d="m 24 12 c -6 0 -10 5 -10 12 c 0 7 4 12 10 12 c 5.996 0 9.996 -5 9.996 -12 c 0 -7 -4 -12 -9.996 -12 m 0 4.723 c 2.637 0 4.777 3.133 4.777 6.996 c 0 3.863 -2.141 6.996 -4.777 6.996 c -2.641 0 -4.781 -3.133 -4.781 -6.996 c 0 -3.863 2.141 -6.996 4.781 -6.996 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #f4aa15 -->
-   <g>
-    <path d="m 24 12 c -6 0 -10 5 -10 12 c 0 7 4 12 10 12 c 5.996 0 9.996 -5 9.996 -12 c 0 -7 -4 -12 -9.996 -12 m 0 4.723 c 2.637 0 4.777 3.133 4.777 6.996 c 0 3.863 -2.141 6.996 -4.777 6.996 c -2.641 0 -4.781 -3.133 -4.781 -6.996 c 0 -3.863 2.141 -6.996 4.781 -6.996 m 0 0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   </g>
-  </g>
- </g>
- <g>
-  
- </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m24 12c-6 0-10 5-10 12 0 7 4 12 10 12 5.996 0 9.996-5 9.996-12 0-7-4-12-9.996-12m0 4.723c2.637 0 4.777 3.133 4.777 6.996 0 3.863-2.141 6.996-4.777 6.996-2.641 0-4.781-3.133-4.781-6.996 0-3.863 2.141-6.996 4.781-6.996m0 0" opacity=".1" transform="translate(1 1)"/>
+  <path d="m24 12c-6 0-10 5-10 12 0 7 4 12 10 12 5.996 0 9.996-5 9.996-12 0-7-4-12-9.996-12m0 4.723c2.637 0 4.777 3.133 4.777 6.996 0 3.863-2.141 6.996-4.777 6.996-2.641 0-4.781-3.133-4.781-6.996 0-3.863 2.141-6.996 4.781-6.996m0 0" fill="#f9f9f9"/>
 </svg>

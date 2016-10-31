@@ -1,39 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e3252a;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#e5373b;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x2="0" y1="47" y2="1">
+    <stop offset="0" stop-color="#e3252a"/>
+    <stop offset="1" stop-color="#e5373b"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #e5373b -->
-     <g>
-      <path d="m 13.453 13 c -0.809 0 -1.453 0.645 -1.453 1.453 l 0 15.844 c 0 0.809 0.645 1.746 1.453 1.703 l 4.547 0 l 0 5 l 6 -5 l 10.547 0 c 0.809 0 1.453 -0.895 1.453 -1.703 l 0 -15.844 c 0 -0.809 -0.645 -1.453 -1.453 -1.453 m -11.547 4 l 2 0 l 0 4 l 3 -2 l 1 1.5 l -3 2 l 3 2 l -1 1.5 l -3 -2 l 0 4 l -2 0 l -0.008 -4.03 l -2.992 2.031 l -1 -1.5 l 3 -2 l -3 -2 l 1 -1.5 l 3 2 m 0 -4" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #e5373b -->
-   <g>
-    <path d="m 13.453 13 c -0.809 0 -1.453 0.645 -1.453 1.453 l 0 15.844 c 0 0.809 0.645 1.746 1.453 1.703 l 4.547 0 l 0 5 l 6 -5 l 10.547 0 c 0.809 0 1.453 -0.895 1.453 -1.703 l 0 -15.844 c 0 -0.809 -0.645 -1.453 -1.453 -1.453 m -11.547 4 l 2 0 l 0 4 l 3 -2 l 1 1.5 l -3 2 l 3 2 l -1 1.5 l -3 -2 l 0 4 l -2 0 l -0.008 -4.03 l -2.992 2.031 l -1 -1.5 l 3 -2 l -3 -2 l 1 -1.5 l 3 2 m 0 -4" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   </g>
-  </g>
- </g>
- <g>
-  
- </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m13.453 13c-.809 0-1.453.645-1.453 1.453v15.844c0 .809.645 1.746 1.453 1.703h4.547v5l6-5h10.547c.809 0 1.453-.895 1.453-1.703v-15.844c0-.809-.645-1.453-1.453-1.453m-11.547 4h2v4l3-2 1 1.5-3 2 3 2-1 1.5-3-2v4h-2l-.008-4.03-2.992 2.031-1-1.5 3-2-3-2 1-1.5 3 2m0-4" opacity=".1" transform="translate(1 1)"/>
+  <path d="m13.453 13c-.809 0-1.453.645-1.453 1.453v15.844c0 .809.645 1.746 1.453 1.703h4.547v5l6-5h10.547c.809 0 1.453-.895 1.453-1.703v-15.844c0-.809-.645-1.453-1.453-1.453m-11.547 4h2v4l3-2 1 1.5-3 2 3 2-1 1.5-3-2v4h-2l-.008-4.03-2.992 2.031-1-1.5 3-2-3-2 1-1.5 3 2m0-4" fill="#f9f9f9"/>
 </svg>

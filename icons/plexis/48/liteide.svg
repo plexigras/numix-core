@@ -1,43 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#dfe3dd;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#e9ece8;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#dfe3dd"/>
+    <stop offset="1" stop-color="#e9ece8"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #e9ece8 -->
-    </g>
-   </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <g fill="#297fb8">
+    <path d="m13 12.996v.004 23.996.004h7v-3h-4v-18h4v-3c-2.337.004-4.667-.004-7-.004zm24 0c-2.333.002-4.663.004-7 .004v3h4v18h-4v3h7v-24zm-16 5l-2 14h11.43l.57-4h-7l1.43-10z" fill="#000" opacity=".1"/>
+    <path d="m12 11.996v.004 23.996.004h7v-3h-4v-18h4v-3c-2.337.004-4.667-.004-7-.004z"/>
+    <path d="m29 12v3h4v18h-4v3h7v-24-.004c-2.333.002-4.663.004-7 .004"/>
   </g>
- </g>
- <g>
-  
- </g>
- <g>
-  <g>
-   <g style="fill:#297fb8;fill-opacity:1">
-    <g>
-     <!-- color: #e9ece8 -->
-     <g>
-      <path d="m 13 12.996 0 0.004 0 23.996 0 0.004 l 7 0 0 -3 -4 0 0 -18 4 0 0 -3 c -2.337 0.004 -4.667 -0.004 -7 -0.004 z m 24 0 c -2.333 0.002 -4.663 0.004 -7 0.004 l 0 3 4 0 0 18 -4 0 0 3 7 0 0 -24 0 -0.004 z m -16 5 -2 14 11.43 0 0.57 -4 -7 0 1.43 -10 -4.43 0" style="fill:#000;opacity:0.1"/>
-      <path d="m 12 11.996 0 0.004 l 0 23.996 0 0.004 7 0 0 -3 -4 0 0 -18 4 0 0 -3 c -2.337 0.004 -4.667 -0.004 -7 -0.004 z"/>
-      <path d="m 29 12 0 3 4 0 0 18 -4 0 l 0 3 l 7 0 0 -24 0 -0.004 c -2.333 0.002 -4.663 0.004 -7 0.004"/>
-     </g>
-    </g>
-   </g>
-  </g>
-  <path d="m 18 31 2 -14 4.429 0 -1.429 10 7 0 -0.57 4 z" style="fill:#287eb7"/>
- </g>
+  <path d="m18 31l2-14h4.429l-1.429 10h7l-.57 4z" fill="#287eb7"/>
 </svg>

@@ -1,26 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient y2="47" x2="0" y1="1" gradientUnits="userSpaceOnUse" id="linearGradient3028">
-   <stop style="stop-color:#d7e6ff;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#c3daff;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x2="0" y1="1" y2="47">
+    <stop offset="0" stop-color="#d7e6ff"/>
+    <stop offset="1" stop-color="#c3daff"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 Z" style="fill:url(#linearGradient3028);fill-opacity:1"/>
- <g>
-  
- </g>
- <path d="m 13 13 0 21 3 -3 0 6 21 0 0 -17 -10 0 7 -7 -21 0 z" style="fill:#000;fill-opacity:0.098;stroke:none"/>
- <g>
-  <path d="m 12 12 0 21 21 -21 -21 0" style="fill:#3a9bfe;fill-opacity:1;stroke:none"/>
-  <rect y="19" x="15" height="17" width="21" style="fill:#353535;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="20" x="16" height="4" width="19" style="fill:#ebf3b7;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="25" x="16" height="10" width="6" style="fill:#ebf3b7;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="25" x="23" height="4" width="12" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect y="30" x="23" height="5" width="12" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- </g>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)"/>
+  <path d="m13 13v21l3-3v6h21v-17h-10l7-7z" fill-opacity=".098"/>
+  <path d="m12 12v21l21-21z" fill="#3a9bfe"/>
+  <path d="m15 19h21v17h-21z" fill="#353535"/>
+  <path d="m16 20h19v4h-19z" fill="#ebf3b7"/>
+  <path d="m16 25h6v10h-6z" fill="#ebf3b7"/>
+  <path d="m23 25h12v4h-12z" fill="#f9f9f9"/>
+  <path d="m23 30h12v5h-12z" fill="#f9f9f9"/>
 </svg>

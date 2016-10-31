@@ -1,30 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3958" y1="48" x2="0" y2="0.135" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#c9c9df;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#d5d5e7;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x2="0" y1="48" y2=".135">
+    <stop offset="0" stop-color="#c9c9df"/>
+    <stop offset="1" stop-color="#d5d5e7"/>
   </linearGradient>
-  <radialGradient id="radialGradient4182" cx="24" cy="24" r="12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,-0.9999999,0.99999992,1,-24,23.999996)">
-   <stop style="stop-color:#448fe8;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#165db2;stop-opacity:1"/>
+  <radialGradient id="b" cx="24" cy="24" gradientTransform="matrix(1 -.9999999 .99999992 1 -24 23.999996)" gradientUnits="userSpaceOnUse" r="12">
+    <stop offset="0" stop-color="#448fe8"/>
+    <stop offset="1" stop-color="#165db2"/>
   </radialGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient3958);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <rect rx="1.5" y="13" x="13" height="24" width="24" style="fill:#000;fill-opacity:0.098;stroke:none;fill-rule:evenodd"/>
- <g>
-  <rect rx="1.5" y="12" x="12" height="24" width="24" style="fill:url(#radialGradient4182);fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <circle r="11" cy="24" cx="24" style="fill:#3988e7;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <rect rx="0.5" y="19" x="22" height="13" width="4" style="fill:#ececec;fill-opacity:1;stroke:none"/>
-  <rect rx="0.5" transform="matrix(0,1,-1,0,0,0)" width="2" height="14" x="18" y="-31" style="fill:#ececec;fill-opacity:1;stroke:none"/>
- </g>
+  <path d="m24 1c22.703 0 23 .297 23 23 0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23z" fill="url(#a)"/>
+  <rect fill-opacity=".098" fill-rule="evenodd" height="24" rx="1.5" width="24" x="13" y="13"/>
+  <rect fill="url(#b)" fill-rule="evenodd" height="24" rx="1.5" width="24" x="12" y="12"/>
+  <circle cx="24" cy="24" fill="#3988e7" fill-rule="evenodd" r="11"/>
+  <rect fill="#ececec" height="13" rx=".5" width="4" x="22" y="19"/>
+  <rect fill="#ececec" height="14" rx=".5" transform="rotate(90)" width="2" x="18" y="-31"/>
 </svg>

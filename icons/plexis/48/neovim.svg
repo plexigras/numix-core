@@ -1,25 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#f2eeba;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#f5f2cb;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#f2eeba"/>
+    <stop offset="1" stop-color="#f5f2cb"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <path d="m 20 12 -6 5 0 16 6 5 l 0 -15.334 10 15.334 6 -5 0 -16 -6 -5 0 15.504 -10 -15.504" style="fill:#000;opacity:0.1;fill-opacity:1"/>
- <path d="m 35 16 -6 -5 0 26 6 -5 z" style="fill:#6ba63f;fill-opacity:1"/>
- <g>
-  
- </g>
- <path d="m 13 16 6 -5 0 26 -6 -5 z" style="fill:#42afe6;fill-opacity:1"/>
- <path d="m 19 11 c -1.218 3.484 -0.987 7.05 0 10.666 l 10 15.334 c 0.641 -3.499 1.379 -6.997 0 -10.496 z" style="fill:#96ca6b;fill-opacity:1"/>
- <path d="m 29 26.504 l 0 10.496 l 4.5 -3.75 l -4.5 -6.746 z" style="fill:#569e41;fill-opacity:1"/>
- <path d="m 19 11 l -4.508 3.756 l 4.508 6.91 l 0 -10.666 z" style="fill:#70be63;fill-opacity:1"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m20 12l-6 5v16l6 5v-15.334l10 15.334 6-5v-16l-6-5v15.504z" opacity=".1"/>
+  <path d="m35 16l-6-5v26l6-5z" fill="#6ba63f"/>
+  <path d="m13 16l6-5v26l-6-5z" fill="#42afe6"/>
+  <path d="m19 11c-1.218 3.484-.987 7.05 0 10.666l10 15.334c.641-3.499 1.379-6.997 0-10.496z" fill="#96ca6b"/>
+  <path d="m29 26.504v10.496l4.5-3.75z" fill="#569e41"/>
+  <path d="m19 11l-4.508 3.756 4.508 6.91z" fill="#70be63"/>
 </svg>

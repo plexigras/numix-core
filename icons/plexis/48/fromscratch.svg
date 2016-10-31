@@ -1,27 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#9ef2d1;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#b0f4d9;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#9ef2d1"/>
+    <stop offset="1" stop-color="#b0f4d9"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <rect rx="1.5" y="12" x="12" height="26" width="26" style="fill:#000;fill-opacity:0.098"/>
- <g transform="translate(0,-1.4111914e-6)">
-  <path d="m 37 15 0 20.5 c 0 0.831 -0.669 1.5 -1.5 1.5 l -23 0 c -0.831 0 -1.5 -0.669 -1.5 -1.5 l 0 -20.5 c 2 -1 24 -1 26 0 z" style="fill:#214f5b;fill-opacity:1"/>
-  <path d="M 12.5,11 C 11.669,11 11,11.669 11,12.5 l 0,2.5 26,0 0,-2.5 C 37,11.669 36.331,11 35.5,11 Z" transform="translate(0,1.4111914e-6)" style="fill:#969696;fill-opacity:1"/>
- </g>
- <path d="m 13 17 l 0 2 l 13 0 l 0 -2 l -13 0 z m 0 4 l 0 2 l 17 0 l 0 -2 l -17 0 z m 2 4 l 0 2 l 9 0 l 0 -2 l -9 0 z m 12 0 l 0 2 l 5 0 l 0 -2 l -5 0 z m -14 6 l 0 2 l 15 0 l 0 -2 l -15 0 z" style="fill:#92b2b2;opacity:1;fill-opacity:1;stroke:none"/>
- <rect width="2" height="2" x="34" y="12" rx="0.5" style="fill:#000;opacity:1;fill-opacity:0.098;stroke:none"/>
- <path d="M 35.45,12.25 35,12.7 l -0.45,-0.45 -0.3,0.3 0.45,0.45 -0.45,0.45 0.3,0.3 0.45,-0.45 0.45,0.45 0.3,-0.3 -0.45,-0.45 0.45,-0.45 -0.3,-0.3 z" style="fill:#4b4b4b;opacity:0.98;fill-opacity:1;stroke:none"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <rect fill-opacity=".098" height="26" rx="1.5" width="26" x="12" y="12"/>
+  <g transform="translate(0 -.00000141)">
+    <path d="m37 15v20.5c0 .831-.669 1.5-1.5 1.5h-23c-.831 0-1.5-.669-1.5-1.5v-20.5c2-1 24-1 26 0z" fill="#214f5b"/>
+    <path d="m12.5 11c-.831 0-1.5.669-1.5 1.5v2.5h26v-2.5c0-.831-.669-1.5-1.5-1.5z" fill="#969696" transform="translate(0 .00000141)"/>
+  </g>
+  <path d="m13 17v2h13v-2zm0 4v2h17v-2zm2 4v2h9v-2zm12 0v2h5v-2zm-14 6v2h15v-2z" fill="#92b2b2"/>
+  <rect fill-opacity=".098" height="2" rx=".5" width="2" x="34" y="12"/>
+  <path d="m35.45 12.25l-.45.45-.45-.45-.3.3.45.45-.45.45.3.3.45-.45.45.45.3-.3-.45-.45.45-.45z" fill="#4b4b4b" opacity=".98"/>
 </svg>

@@ -1,40 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#3a3a3a;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#444;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#3a3a3a"/>
+    <stop offset="1" stop-color="#444"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #444444 -->
-     <g>
-      <path d="m 15.543 12 l 16.914 0 c 1.957 0 3.543 1.586 3.543 3.543 l 0 16.914 c 0 1.957 -1.586 3.543 -3.543 3.543 l -16.914 0 c -1.957 0 -3.543 -1.586 -3.543 -3.543 l 0 -16.914 c 0 -1.957 1.586 -3.543 3.543 -3.543 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #444444 -->
-   <g>
-    <path d="m 15.543,12 16.914,0 C 34.414,12 36,13.586 36,15.543 l 0,16.914 C 36,34.414 34.414,36 32.457,36 L 15.543,36 C 13.586,36 12,34.414 12,32.457 L 12,15.543 C 12,13.586 13.586,12 15.543,12 m 0,0" style="fill:#d64442;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 15,15 18,0 -9,18 M 15,15" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   </g>
-  </g>
- </g>
- <g>
-  
- </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m15.543 12h16.914c1.957 0 3.543 1.586 3.543 3.543v16.914c0 1.957-1.586 3.543-3.543 3.543h-16.914c-1.957 0-3.543-1.586-3.543-3.543v-16.914c0-1.957 1.586-3.543 3.543-3.543m0 0" opacity=".1" transform="translate(1 1)"/>
+  <path d="m15.543 12h16.914c1.957 0 3.543 1.586 3.543 3.543v16.914c0 1.957-1.586 3.543-3.543 3.543h-16.914c-1.957 0-3.543-1.586-3.543-3.543v-16.914c0-1.957 1.586-3.543 3.543-3.543m0 0" fill="#d64442"/>
+  <path d="m15 15h18l-9 18m-9-18" fill="#f9f9f9"/>
 </svg>

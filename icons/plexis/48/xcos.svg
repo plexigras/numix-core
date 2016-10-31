@@ -1,40 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#3d3d3d;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#474747;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#3d3d3d"/>
+    <stop offset="1" stop-color="#474747"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <g>
-  
- </g>
- <g transform="translate(0,2)" style="fill:#000;opacity:0.1">
-  <g>
-   <g>
-    <rect width="24" height="24" x="13" y="11" rx="1.846" style="opacity:1;fill-opacity:1;stroke:none"/>
-   </g>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <rect height="24" opacity=".1" rx="1.846" transform="translate(0 2)" width="24" x="13" y="11"/>
+  <g transform="translate(-1 1)">
+    <rect fill="#f2f2f2" height="24" rx="1.846" width="24" x="13" y="11"/>
+    <rect fill="#53676c" height="19" rx="1.833" ry="1.81" width="22" x="14" y="12"/>
+    <path d="m23 13l-3 8h-6v2h7l2-6 5 13 3-7h5v-2h-6l-2 5z" fill="#d7eef4" fill-rule="evenodd"/>
+    <circle cx="31" cy="33" fill="#f55" r="1"/>
+    <circle cx="34" cy="33" fill="#faa" r="1"/>
+    <circle cx="28" cy="33" fill="#ff2a2a" r="1"/>
+    <circle cx="25" cy="33" fill="#d40000" r="1"/>
+    <circle cx="22" cy="33" fill="#8c0000" r="1"/>
   </g>
- </g>
- <g transform="translate(-1,1)">
-  <g>
-   <g>
-    <rect rx="1.846" y="11" x="13" height="24" width="24" style="fill:#f2f2f2;opacity:1;fill-opacity:1;stroke:none"/>
-    <rect ry="1.81" rx="1.833" y="12" x="14" height="19" width="22" style="fill:#53676c;opacity:1;fill-opacity:1;stroke:none"/>
-    <path d="m 23 13 -3 8 -6 0 0 2 7 0 2 -6 5 13 3 -7 5 0 0 -2 -6 0 -2 5 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-color="#000000" solid-opacity="1" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#d7eef4;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
-    <circle r="1" cy="33" cx="31" style="fill:#f55;opacity:1;fill-opacity:1;stroke:none"/>
-    <circle cx="34" cy="33" r="1" style="fill:#faa;opacity:1;fill-opacity:1;stroke:none"/>
-    <circle r="1" cy="33" cx="28" style="fill:#ff2a2a;opacity:1;fill-opacity:1;stroke:none"/>
-    <circle cx="25" cy="33" r="1" style="fill:#d40000;opacity:1;fill-opacity:1;stroke:none"/>
-    <circle r="1" cy="33" cx="22" style="fill:#8c0000;opacity:1;fill-opacity:1;stroke:none"/>
-   </g>
-  </g>
- </g>
 </svg>

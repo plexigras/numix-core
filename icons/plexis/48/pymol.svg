@@ -1,39 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
- <defs>
-  <linearGradient id="linearGradient4165">
-   <stop style="stop-color:#e6a45c;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#e39949;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a">
+    <stop offset="0" stop-color="#e6a45c"/>
+    <stop offset="1" stop-color="#e39949"/>
   </linearGradient>
-  <linearGradient id="linearGradient3817" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,0,48)">
-   <stop style="stop-color:#07356d;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#083e80;stop-opacity:1"/>
+  <linearGradient id="b" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#07356d"/>
+    <stop offset="1" stop-color="#083e80"/>
   </linearGradient>
-  <radialGradient xlink:href="#linearGradient4165" id="radialGradient4355" cx="-16.938" cy="26.13" r="3" gradientUnits="userSpaceOnUse"/>
-  <radialGradient id="radialGradient4323" cx="-4.938" cy="26.13" r="4" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#e5ebf1;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#c0d3e4;stop-opacity:1"/>
+  <radialGradient id="c" cx="-16.938" cy="26.13" gradientUnits="userSpaceOnUse" r="3" xlink:href="#a"/>
+  <radialGradient id="d" cx="-4.938" cy="26.13" gradientUnits="userSpaceOnUse" r="4">
+    <stop offset="0" stop-color="#e5ebf1"/>
+    <stop offset="1" stop-color="#c0d3e4"/>
   </radialGradient>
-  <radialGradient xlink:href="#linearGradient4165" id="radialGradient4339" cx="7.06" cy="26.13" r="3" gradientUnits="userSpaceOnUse"/>
-  <radialGradient xlink:href="#linearGradient4165" id="radialGradient4331" cx="-4.938" cy="14.13" r="3" gradientUnits="userSpaceOnUse"/>
-  <radialGradient xlink:href="#linearGradient4165" id="radialGradient4347" cx="-4.938" cy="38.13" r="3" gradientUnits="userSpaceOnUse"/>
- </defs>
- <g>
-  
-  
-  
- </g>
- <path d="M 24,47 C 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 z" style="fill:url(#linearGradient3817);fill-opacity:1"/>
- <g>
-  
- </g>
- <path d="m 25 10 a 3 3 0 0 0 -3 3 3 3 0 0 0 2 2.824 l 0 5.307 A 4 4 0 0 0 21.13 24 l -5.307 0 A 3 3 0 0 0 13 22 a 3 3 0 0 0 -3 3 3 3 0 0 0 3 3 3 3 0 0 0 2.824 -2 l 5.307 0 A 4 4 0 0 0 24 28.867 l 0 5.307 A 3 3 0 0 0 22 37 a 3 3 0 0 0 3 3 3 3 0 0 0 3 -3 3 3 0 0 0 -2 -2.824 l 0 -5.307 A 4 4 0 0 0 28.867 26 l 5.307 0 A 3 3 0 0 0 37 28 a 3 3 0 0 0 3 -3 3 3 0 0 0 -3 -3 3 3 0 0 0 -2.824 2 l -5.307 0 A 4 4 0 0 0 26 21.13 l 0 -5.307 A 3 3 0 0 0 28 13 3 3 0 0 0 25 10" style="fill:#000;fill-opacity:0.098;stroke:none;fill-rule:evenodd"/>
- <g transform="translate(28.9375,-2.125)">
-  <rect transform="translate(-28.9375,2.125)" y="23" x="14" height="2" width="20" style="fill:#1c2634;fill-opacity:1;stroke:none"/>
-  <rect transform="matrix(0,1,-1,0,-28.9375,2.125)" width="20" height="2" x="14" y="-25" style="fill:#1c2634;fill-opacity:1;stroke:none"/>
-  <circle cx="-16.938" cy="26.13" r="3" style="fill:url(#radialGradient4355);fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <circle r="4" cy="26.13" cx="-4.938" style="fill:url(#radialGradient4323);fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <circle r="3" cy="26.13" cx="7.06" style="fill:url(#radialGradient4339);fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <circle r="3" cy="14.13" cx="-4.938" style="fill:url(#radialGradient4331);fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <circle cx="-4.938" cy="38.13" r="3" style="fill:url(#radialGradient4347);fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- </g>
+  <radialGradient id="e" cx="7.06" cy="26.13" gradientUnits="userSpaceOnUse" r="3" xlink:href="#a"/>
+  <radialGradient id="f" cx="-4.938" cy="14.13" gradientUnits="userSpaceOnUse" r="3" xlink:href="#a"/>
+  <radialGradient id="g" cx="-4.938" cy="38.13" gradientUnits="userSpaceOnUse" r="3" xlink:href="#a"/>
+  <path d="m24 47c-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23 0 22.703-.297 23-23 23z" fill="url(#b)"/>
+  <path d="m25 10a3 3 0 0 0-3 3 3 3 0 0 0  2 2.824v5.307a4 4 0 0 0-2.87 2.869h-5.307a3 3 0 0 0-2.823-2 3 3 0 0 0-3 3 3 3 0 0 0  3 3 3 3 0 0 0  2.824-2h5.307a4 4 0 0 0 2.869 2.867v5.307a3 3 0 0 0-2 2.826 3 3 0 0 0  3 3 3 3 0 0 0  3-3 3 3 0 0 0-2-2.824v-5.307a4 4 0 0 0 2.867-2.869h5.307a3 3 0 0 0 2.826 2 3 3 0 0 0  3-3 3 3 0 0 0-3-3 3 3 0 0 0-2.824 2h-5.307a4 4 0 0 0-2.869-2.87v-5.307a3 3 0 0 0 2-2.823 3 3 0 0 0-3-3" fill-opacity=".098" fill-rule="evenodd"/>
+  <g transform="translate(28.9375 -2.125)">
+    <path d="m14 23h20v2h-20z" fill="#1c2634" transform="translate(-28.9375 2.125)"/>
+    <path d="m14-25h20v2h-20z" fill="#1c2634" transform="matrix(0 1 -1 0 -28.9375 2.125)"/>
+    <circle cx="-16.938" cy="26.13" fill="url(#c)" fill-rule="evenodd" r="3"/>
+    <circle cx="-4.938" cy="26.13" fill="url(#d)" fill-rule="evenodd" r="4"/>
+    <circle cx="7.06" cy="26.13" fill="url(#e)" fill-rule="evenodd" r="3"/>
+    <circle cx="-4.938" cy="14.13" fill="url(#f)" fill-rule="evenodd" r="3"/>
+    <circle cx="-4.938" cy="38.13" fill="url(#g)" fill-rule="evenodd" r="3"/>
+  </g>
 </svg>

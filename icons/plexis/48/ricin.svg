@@ -1,25 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <defs>
-  <linearGradient gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)" gradientUnits="userSpaceOnUse" x2="47" x1="1" id="linearGradient3764">
-   <stop style="stop-color:#3d3d3d;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#474747;stop-opacity:1"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(0 -1 1 0 -.0000015 47.999998)" gradientUnits="userSpaceOnUse" x1="1" x2="47">
+    <stop offset="0" stop-color="#3d3d3d"/>
+    <stop offset="1" stop-color="#474747"/>
   </linearGradient>
- </defs>
- <g>
-  
-  
-  
- </g>
- <g>
-  <path d="m 47,24 C 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
- </g>
- <path d="m 12,15 9,15 2,-13 -2,-2 z m 17,0 -2,2 2,13 9,-15 z M 18,33 c -1.105,0 -2,0.895 -2,2 0,1.105 0.895,2 2,2 1.105,0 2,-0.895 2,-2 0,-1.105 -0.895,-2 -2,-2 z m 7,0 c -1.105,0 -2,0.895 -2,2 0,1.105 0.895,2 2,2 1.105,0 2,-0.895 2,-2 0,-1.105 -0.895,-2 -2,-2 z m 7,0 c -1.105,0 -2,0.895 -2,2 0,1.105 0.895,2 2,2 1.105,0 2,-0.895 2,-2 0,-1.105 -0.895,-2 -2,-2 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <g>
-  
- </g>
- <path d="m 22 16 -2 -2 -9 0 9 15 z" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <path d="m 26 16 2 -2 9 0 -9 15 z" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
- <circle cx="17" cy="34" r="2" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
- <circle cx="24" cy="34" r="2" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
- <circle cx="31" cy="34" r="2" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m47 24c0 22.703-.297 23-23 23-22.703 0-23-.297-23-23 0-22.703.297-23 23-23 22.703 0 23 .297 23 23z" fill="url(#a)"/>
+  <path d="m12 15l9 15 2-13-2-2zm17 0l-2 2 2 13 9-15zm-11 18c-1.105 0-2 .895-2 2 0 1.105.895 2 2 2 1.105 0 2-.895 2-2 0-1.105-.895-2-2-2zm7 0c-1.105 0-2 .895-2 2 0 1.105.895 2 2 2 1.105 0 2-.895 2-2 0-1.105-.895-2-2-2zm7 0c-1.105 0-2 .895-2 2 0 1.105.895 2 2 2 1.105 0 2-.895 2-2 0-1.105-.895-2-2-2z" fill-rule="evenodd" opacity=".1"/>
+  <path d="m22 16l-2-2h-9l9 15z" fill="#f9f9f9" fill-rule="evenodd"/>
+  <path d="m26 16l2-2h9l-9 15z" fill="#f9f9f9" fill-rule="evenodd"/>
+  <circle cx="17" cy="34" fill="#f9f9f9" r="2"/>
+  <circle cx="24" cy="34" fill="#f9f9f9" r="2"/>
+  <circle cx="31" cy="34" fill="#f9f9f9" r="2"/>
 </svg>
