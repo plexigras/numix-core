@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient4238" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,0,48)">
+   <stop style="stop-color:#788091;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#828a9a;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <path d="M 1,24 C 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 z" style="fill:url(#linearGradient4238);fill-opacity:1"/>
+ <g>
+  
+ </g>
+ <g transform="matrix(-1,0,0,1,49,1)" style="fill:#000;fill-opacity:0.098">
+  <g>
+   <!-- color: #91ce8c -->
+   <g>
+    <path d="M 21,30 30,18 18,27.5 11,22.285 C 11.102,22.187 34.98,11.953 35,12 L 29.5,36 M 17,35 l 0,-5 5,3 c 0.059,0.035 -4.926,2 -5,2 m 0,0"/>
+   </g>
+  </g>
+ </g>
+ <g transform="matrix(-1,0,0,1,48,0)">
+  <g>
+   <!-- color: #91ce8c -->
+   <g>
+    <path d="M 21,30 30,18 18,27.5 11,22.285 C 11.102,22.187 34.98,11.953 35,12 L 29.5,36 M 17,35 l 0,-5 5,3 c 0.059,0.035 -4.926,2 -5,2 m 0,0" style="fill:#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

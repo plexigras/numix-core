@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3779">
+   <stop style="stop-color:#ebd5ed;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#f2e3f3;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient gradientUnits="userSpaceOnUse" x2="47" x1="1" id="linearGradient3785" xlink:href="#linearGradient3779" gradientTransform="translate(-4.160017,29.194915)"/>
+  <linearGradient id="linearGradient3789" xlink:href="#linearGradient3779" x1="0" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.491525,30.101695)"/>
+  <linearGradient y2="1" x2="0" y1="47" gradientUnits="userSpaceOnUse" id="linearGradient3809" xlink:href="#linearGradient3779" gradientTransform="translate(-4.160017,29.194915)"/>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g style="fill:url(#linearGradient3785);fill-opacity:1">
+  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 Z" style="fill:url(#linearGradient3809)"/>
+ </g>
+ <g transform="translate(-18.600694,-3.3474579)" style="fill:url(#linearGradient3789);fill-opacity:1">
+  <g>
+   <!-- color: #ad51b3 -->
+  </g>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 14 13 c -1.108 0 -2 0.892 -2 2 l 0 16 c 0 1.108 0.892 2 2 2 l 7 0 0 1 -5 0 0 3 18 0 0 -3 -5 0 0 -1 7 0 c 1.108 0 2 -0.892 2 -2 l 0 -16 c 0 -1.108 -0.892 -2 -2 -2 l -22 0 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <g>
+  <path d="m 13 12 c -1.108 0 -2 0.892 -2 2 l 0 16 c 0 1.108 0.892 2 2 2 l 7 0 0 1 -5 0 0 3 18 0 0 -3 -5 0 0 -1 7 0 c 1.108 0 2 -0.892 2 -2 l 0 -16 c 0 -1.108 -0.892 -2 -2 -2 l -22 0 z" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 13 13 c -0.554 0 -1 0.446 -1 1 l 0 16 c 0 0.554 0.446 1 1 1 l 8 0 0 2 6 0 0 -2 8 0 c 0.554 0 1 -0.446 1 -1 l 0 -16 c 0 -0.554 -0.446 -1 -1 -1 l -22 0 z m 3 21 0 1 16 0 0 -1 -16 0 z" style="fill:#bd6bc2;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="M 20 16 A 5 5 0 0 0 15 21 A 5 5 0 0 0 18.92 25.879 A 5 5 0 0 1 18 23 A 5 5 0 0 1 23 18 A 5 5 0 0 1 24.08 18.12 A 5 5 0 0 0 20 16 z M 27.5 17.5 L 27 19 L 25.5 19.5 L 27 20 L 27.5 21.5 L 28 20 L 29.5 19.5 L 28 19 L 27.5 17.5 z M 30.5 22.5 L 30 24 L 28.5 24.5 L 30 25 L 30.5 26.5 L 31 25 L 32.5 24.5 L 31 24 L 30.5 22.5 z M 24.5 23.5 L 24 25 L 22.5 25.5 L 24 26 L 24.5 27.5 L 25 26 L 26.5 25.5 L 25 25 L 24.5 23.5 z" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none"/>
+ </g>
+</svg>

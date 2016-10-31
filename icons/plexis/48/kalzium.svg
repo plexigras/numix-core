@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3845" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#8b99b5;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#97a4bd;stop-opacity:1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4309" cx="15.5" cy="17.5" r="1.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1666666,0,0,1,-2.533333,-0.5)">
+   <stop style="stop-color:#969696;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#fff;stop-opacity:0.314"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4313" gradientUnits="userSpaceOnUse" cx="15.5" cy="17.5" r="1.5" gradientTransform="matrix(1.1666666,0,0,1,12.466667,-0.4999991)">
+   <stop style="stop-color:#b4b4b4;stop-opacity:0.824"/>
+   <stop offset="1" style="stop-color:#fff;stop-opacity:0.314"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4317" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1666666,0,0,1,4.9666674,12.500001)" cx="15.5" cy="17.5" r="1.5">
+   <stop style="stop-color:#a0a0a0;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#fff;stop-opacity:0.314"/>
+  </radialGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient3845);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g>
+  <g transform="translate(2,0)" style="fill:#000;fill-opacity:0.118">
+   <path d="m 15.5 15 a 4.5 4.5 0 0 0 -4.5 4.5 4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 0.82 -0.078 l 3.262 5.654 a 4.5 4.5 0 0 0 0.236 6.105 4.5 4.5 0 0 0 6.363 0 4.5 4.5 0 0 0 0.236 -6.104 l 3.264 -5.656 a 4.5 4.5 0 0 0 0.818 0.078 4.5 4.5 0 0 0 4.5 -4.5 4.5 4.5 0 0 0 -4.5 -4.5 4.5 4.5 0 0 0 -4.236 3 l -6.527 0 a 4.5 4.5 0 0 0 -4.236 -3 z m 4.236 6 6.527 0 a 4.5 4.5 0 0 0 0.82 1.42 l -3.266 5.66 a 4.5 4.5 0 0 0 -1.639 -0.006 l -3.262 -5.65 a 4.5 4.5 0 0 0 0.818 -1.424 z" style="opacity:1;stroke:none;fill-rule:nonzero"/>
+  </g>
+  <g>
+   <g transform="translate(2,0)">
+    <path d="m 15 17 -1.799 2.25 7.5 13 2.598 0 7.5 -13 l -1.799 -2.25 m -11.902 3 9.805 0 l -4.902 8.498" style="fill:#1e1e1e;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <circle r="4.5" cy="18.5" cx="14.5" style="fill:#2c2c2c;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <circle cx="29.5" cy="18.5" r="4.5" style="fill:#2b2b91;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <circle transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" r="4.5" cy="6.718" cx="37.83" style="fill:#e52d2d;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   </g>
+   <ellipse ry="1.5" rx="1.75" cx="15.55" cy="17" style="fill:url(#radialGradient4309);opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   <ellipse ry="1.5" rx="1.75" cy="17" cx="30.55" style="fill:url(#radialGradient4313);opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   <ellipse ry="1.5" rx="1.75" cx="23.05" cy="30" style="fill:url(#radialGradient4317);opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  </g>
+ </g>
+</svg>

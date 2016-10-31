@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3527" x1="1" x2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffec91;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#ffe87d;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4343" y1="1" x2="0" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffde41;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#ffda2d;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g style="fill:url(#linearGradient3527);fill-opacity:1">
+  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient4343)"/>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="translate(1,1)" style="fill:#000;opacity:0.1">
+  <rect width="26" height="22" x="11" y="13" rx="1"/>
+ </g>
+ <g>
+  <rect rx="1" y="13" x="11" height="22" width="26" style="fill:#999"/>
+  <rect width="24" height="20" x="12" y="14" style="fill:#333"/>
+  <rect y="15" x="16" height="3" width="16" style="fill:#ffd42a"/>
+  <rect y="16" x="17" height="1" width="9" style="fill:#333;fill-opacity:1"/>
+  <rect y="16" x="27" height="1" width="4" style="fill:#333;fill-opacity:1"/>
+  <rect y="21" x="14" height="1" width="15" style="fill:#ffd42a"/>
+  <rect y="24" x="14" height="1" width="10" style="fill:#ffd42a"/>
+  <rect y="27" x="14" height="1" width="17" style="fill:#ffd42a"/>
+  <rect width="8" height="1" x="14" y="30" style="fill:#ffd42a"/>
+ </g>
+ <g transform="translate(4,4)" style="fill:#000;opacity:0.1">
+  <path d="m 28 18 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m 0 1 A 3.5 3.5 0 0 1 31.5 22.5 3.5 3.5 0 0 1 28 26 3.5 3.5 0 0 1 24.5 22.5 3.5 3.5 0 0 1 28 19" style="fill-opacity:1"/>
+  <rect width="14" height="10" x="21" y="23" rx="1.167" style="fill-opacity:1"/>
+ </g>
+ <g transform="translate(3,3)">
+  <path d="m 28 18 a 5 5 0 0 0 -5 5 5 5 0 0 0 5 5 5 5 0 0 0 5 -5 5 5 0 0 0 -5 -5 z m 0 1 A 3.5 3.5 0 0 1 31.5 22.5 3.5 3.5 0 0 1 28 26 3.5 3.5 0 0 1 24.5 22.5 3.5 3.5 0 0 1 28 19" style="fill:#b3b3b3;fill-opacity:1"/>
+  <rect rx="1.167" y="23" x="21" height="10" width="14" style="fill:#b3b3b3;fill-opacity:1"/>
+  <circle r="4" cy="28" cx="28" style="fill:#808080;fill-opacity:1"/>
+  <rect y="28" x="27" height="3" width="2" style="fill:#333;fill-opacity:1"/>
+  <circle r="2" cy="27" cx="28" style="fill:#333;fill-opacity:1"/>
+ </g>
+</svg>

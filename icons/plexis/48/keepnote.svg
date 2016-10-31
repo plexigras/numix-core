@@ -1,0 +1,29 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#333;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#3d3d3d;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <g>
+   
+   
+   
+  </g>
+  <g>
+   <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 Z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+  </g>
+  <g>
+   
+  </g>
+ </g>
+ <g>
+  <path d="m 15 12 0 26 2 0 18 0 l 0 -19.07 -6.93 -6.93 -11.07 0 -2 0 m 2 2 2 0 8 0 0 6 6 0 0 16 -6 0 -8 0 -2 0 0 -22 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ </g>
+ <g>
+  <path d="m 14 11 0 26 2 0 18 0 l 0 -19.07 -6.93 -6.93 -11.07 0 -2 0 m 2 2 2 0 8 0 0 6 6 0 0 16 -6 0 -8 0 -2 0 0 -22 z" style="fill:#ddd;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 27.28 10.25 0 2 0 6 6 0 2 0 0 -1.07 -6.93 -6.93 -1.07 0 z" style="fill:#ccf;opacity:1;fill-opacity:0;stroke:none"/>
+ </g>
+</svg>

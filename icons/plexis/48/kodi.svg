@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3064" y1="1" x2="0" y2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#555;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#4b4b4b;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g style="fill:url(#linearGradient3064);fill-opacity:1">
+  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z"/>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 25 13 -5 5 0 10 10 -10 -5 -5 z m 8 8 -5 5 5 5 5 -5 -5 -5 z m -17 1 -4 4 4 4 0 -8 z m 9 7 -5 5 5 5 5 -5 -5 -5 z" style="fill:#000;opacity:0.1;stroke:none"/>
+ <path d="m 24 11 -5 5 0 10 10 -10 -5 -5 z m 8 8 -5 5 5 5 5 -5 -5 -5 z m -17 1 -4 4 4 4 0 -8 z m 9 7 -5 5 5 5 5 -5 -5 -5 z" style="fill:#5fbcd3;stroke:none"/>
+</svg>

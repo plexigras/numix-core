@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3851" x1="1" x2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#276372;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#2c6f80;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g transform="matrix(0,-1,1,0,0,48)" style="fill:url(#linearGradient3851);fill-opacity:1">
+  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z"/>
+ </g>
+ <g>
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #f89799 -->
+     <g>
+      <path d="m 20.328 18 l 11.344 0 c 2.391 0 4.328 1.938 4.328 4.328 l 0 3.348 c 0 2.387 -1.938 4.324 -4.328 4.324 l -11.344 0 c -2.391 0 -4.328 -1.938 -4.328 -4.324 l 0 -3.348 c 0 -2.391 1.938 -4.328 4.328 -4.328 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 26 24 c 0 3.867 -3.133 7 -7 7 c -3.867 0 -7 -3.133 -7 -7 c 0 -3.867 3.133 -7 7 -7 c 3.867 0 7 3.133 7 7 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 23 24 c 0 2.211 -1.789 4 -4 4 c -2.211 0 -4 -1.789 -4 -4 c 0 -2.211 1.789 -4 4 -4 c 2.211 0 4 1.789 4 4 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 13.75 18 c -0.969 0 -1.75 0.785 -1.75 1.75 l 0 10.5 c 0 0.965 0.781 1.75 1.75 1.75 l 10.496 0 c 0.7 0 1.298 -0.413 1.578 -1 l 10.176 0 c 1.105 0 2 -0.894 2 -1.996 l 0 -8 c 0 -1.105 -0.895 -2 -2 -2 l -10.18 0 c -0.281 -0.589 -0.876 -1 -1.574 -1 l -10.496 0 z" transform="translate(-1,-1)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <path d="m 15 18 20 0 c 1.105 0 2 0.895 2 2 l 0 8 c 0 1.102 -0.895 1.996 -2 1.996 l -20 0 c -1.105 0 -2 -0.895 -2 -1.996 l 0 -8 c 0 -1.105 0.895 -2 2 -2 m 0 0" style="fill:#bae01f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 12.75,17 10.496,0 c 0.969,0 1.75,0.785 1.75,1.75 l 0,10.5 c 0,0.965 -0.781,1.75 -1.75,1.75 L 12.75,31 C 11.781,31 11,30.215 11,29.25 l 0,-10.5 C 11,17.785 11.781,17 12.75,17 m 0,0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 14,19 8,0 0,1.996 -8,0 M 14,19" style="fill:#c8c8c8;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 14,23 8,0 0,1.996 -8,0 M 14,23" style="fill:#c8c8c8;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <path d="m 14 27 8 0 0 2 -8 0 m 0 -2" style="fill:#c8c8c8;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ </g>
+ <g>
+  
+ </g>
+</svg>

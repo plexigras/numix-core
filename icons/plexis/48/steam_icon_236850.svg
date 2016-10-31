@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient4350" x1="24.08" y1="46.924" x2="23.914" y2="1.165" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffe57d;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#ffe991;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g style="fill:url(#linearGradient4350);fill-opacity:1">
+  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z"/>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="matrix(1.1538462,0,0,1.1538462,-2.6923082,-2.6923094)" style="fill:#000;opacity:0.1">
+  <g>
+   <path d="m 14.808 14.808 5.745 9.192 -5.745 9.192 9.192 -5.745 9.192 5.745 -5.745 -9.192 5.745 -9.192 -9.192 5.745 -9.192 -5.745" style="stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="stroke:none;fill-rule:evenodd"/>
+  </g>
+  <g>
+   <path d="M 24,11 21.5625,21.5625 11,24 21.5625,26.4375 24,37 26.4375,26.4375 37,24 26.4375,21.5625 24,11 Z" style="stroke:none;fill-rule:evenodd"/>
+  </g>
+ </g>
+ <g transform="matrix(1.1538462,0,0,1.1538462,-3.6923082,-3.6923088)">
+  <g>
+   <path d="m 14.808 14.808 5.745 9.192 -5.745 9.192 9.192 -5.745 9.192 5.745 -5.745 -9.192 5.745 -9.192 -9.192 5.745 -9.192 -5.745" style="fill:#6c5353;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+  </g>
+  <g>
+   <path d="M 24,11 21.5625,21.5625 11,24 21.5625,26.4375 24,37 26.4375,26.4375 37,24 26.4375,21.5625 24,11 Z" style="fill:#c8beb7;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+  </g>
+ </g>
+</svg>

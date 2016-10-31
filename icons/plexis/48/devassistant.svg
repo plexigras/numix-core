@@ -1,0 +1,28 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient x1="1" x2="47" id="linearGradient3764" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+   <stop style="stop-color:#333;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#3d3d3d;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+ </g>
+ <g transform="matrix(0.06,0,0,0.06,13,13)" style="fill:#000;fill-opacity:0.098">
+  <path d="m 13 13 0 24 24 0 0 -24 z m 7 3 10 0 -5 5 z m -4 4 5 5 -5 5 z m 18 0 0 10 -5 -5 z m -9 9 5 5 -10 0 z" transform="matrix(16.666667,0,0,16.666667,-216.66667,-216.66667)"/>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="matrix(0.06,0,0,0.06,12,12)">
+  <path d="m 0 0 400 0 0 400 z m 350 116.67 -83.33 83.33 83.33 83.33 z m -66.67 -66.67 -166.67 0 83.33 83.33 z" style="fill:#e0e1e2"/>
+  <path d="m 0 0 200 200 -200 200 z m 133.33 200 -83.33 -83.33 0 166.67 z" style="fill:#3273cd"/>
+  <path d="m 200 200 200 200 -400 0 z m 83.33 150 -83.33 -83.33 -83.33 83.33 z" style="fill:#0a4ba9"/>
+ </g>
+</svg>

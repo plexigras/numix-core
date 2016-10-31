@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3810" x1="24.342" y1="47.23" x2="24.17" y2="1.025" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffd119;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#ffd941;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g style="fill:url(#linearGradient3810);fill-opacity:1">
+  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g transform="translate(2,2)" style="fill:#000;opacity:0.1">
+  <path d="m 8 34 6.989 0 4.572 -22 -6.989 0 z" style="stroke:none"/>
+  <path d="m 17.22 34 6.989 0 4.572 -22 -6.989 0 z" style="stroke:none"/>
+  <path d="m 26.44 34 6.989 0 4.572 -22 -6.989 0 z" style="stroke:none"/>
+ </g>
+ <g transform="translate(1,1)">
+  <path d="m 8 34 6.989 0 4.572 -22 -6.989 0 z" style="fill:#d40000;stroke:none"/>
+  <path d="m 17.22 34 6.989 0 4.572 -22 -6.989 0 z" style="fill:#0a0;stroke:none"/>
+  <path d="m 26.44 34 6.989 0 4.572 -22 -6.989 0 z" style="fill:#0055d4;stroke:none"/>
+ </g>
+</svg>

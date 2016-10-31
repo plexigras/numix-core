@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3845" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f0e8cc;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#f5efdb;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient3845);fill-opacity:1"/>
+ </g>
+ <g>
+  
+ </g>
+ <g>
+  <path d="m 23 11 c -1.352 -0.019 -1.352 2.02 0 2 l 4 0 0 23 c 0 0.552 0.448 1 1 1 l 8 0 c 0.552 0 1 -0.448 1 -1 l 0 -10 c 0 -0.552 -0.448 -1 -1 -1 l -2.27 0 a 2 2 0 0 0 -1.73 -1 2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 1.73 -1 l 1.27 0 0 8 -6 0 0 -23 c 0 -0.552 -0.448 -1 -1 -1 l -5 0 z m -7 4 c -0.552 0 -1 0.448 -1 1 l 0 8.271 a 2 2 0 0 0 -1 1.729 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -1 -1.73 l 0 -7.27 6 0 0 18 -9 0 c -1.352 -0.019 -1.352 2.02 0 2 l 10 0 c 0.552 0 1 -0.448 1 -1 l 0 -20 c 0 -0.552 -0.448 -1 -1 -1 l -8 0 z" style="fill:#000;fill-opacity:0.098;stroke:none"/>
+  <circle r="2" cy="25" cx="15" style="fill:#424242;fill-opacity:1;stroke:none"/>
+  <circle cx="31" cy="25" r="2" style="fill:#424242;fill-opacity:1;stroke:none"/>
+  <path d="m 15 14 c -0.552 0 -1 0.448 -1 1 l 0 10 c -0.019 1.352 2.02 1.352 2 0 l 0 -9 6 0 0 18 -9 0 c -1.352 -0.019 -1.352 2.02 0 2 l 10 0 c 0.552 0 1 -0.448 1 -1 l 0 -20 c 0 -0.552 -0.448 -1 -1 -1 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#cc7c24;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+  <path d="m 22 10 c -1.352 -0.019 -1.352 2.02 0 2 l 4 0 0 23 c 0 0.552 0.448 1 1 1 l 8 0 c 0.552 0 1 -0.448 1 -1 l 0 -10 c 0 -0.552 -0.448 -1 -1 -1 l -4 0 c -1.352 -0.019 -1.352 2.02 0 2 l 3 0 0 8 -6 0 0 -23 c 0 -0.552 -0.448 -1 -1 -1 z" mix-blend-mode="normal" isolation="auto" white-space="normal" solid-opacity="1" solid-color="#000000" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#443e76;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:evenodd;color-rendering:auto;color-interpolation:sRGB"/>
+ </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient4208" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#c89b56;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#cda465;stop-opacity:1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4261" cx="24" cy="24" r="15" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#4970c1;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#134197;stop-opacity:1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient4208);fill-opacity:1"/>
+ </g>
+ <g transform="translate(0.004,0)">
+  <g>
+   <g transform="translate(1,1)">
+    <g style="opacity:0.1">
+     <!-- color: #3d3d3d -->
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <g>
+   <!-- color: #3d3d3d -->
+  </g>
+ </g>
+ <g>
+  
+ </g>
+ <circle r="15" cy="25" cx="25" style="fill:#000;fill-opacity:0.11;stroke:none"/>
+ <circle cx="24" cy="24" r="15" style="fill:url(#radialGradient4261);fill-opacity:1;stroke:none"/>
+</svg>

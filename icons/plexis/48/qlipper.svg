@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient4195" y1="47" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f0e530;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#f1e743;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g>
+  <path d="m 24 1 c 22.703 0 23 0.297 23 23 c 0 22.703 -0.297 23 -23 23 -22.703 0 -23 -0.297 -23 -23 0 -22.703 0.297 -23 23 -23 z" style="fill:url(#linearGradient4195);fill-opacity:1"/>
+ </g>
+ <path d="m 21,13 0,2 -4.5,0 C 15.669,15 15,15.669 15,16.5 l 0,19 c 0,0.831 0.669,1.5 1.5,1.5 l 17,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-19 C 35,15.669 34.331,15 33.5,15 l -4.5,0 0,-2 -8,0 z" style="fill:#000;fill-opacity:0.098"/>
+ <rect width="20" height="22" x="14" y="14" rx="1.5" style="fill:#c68952;fill-opacity:1"/>
+ <g>
+  
+ </g>
+ <g transform="translate(1,-2)">
+  <g>
+   <!-- color: #d14040 -->
+  </g>
+ </g>
+ <rect width="14" height="19" x="17" y="14" style="fill:#f9f9f9;fill-opacity:1"/>
+ <rect width="8" height="4" x="20" y="12" style="fill:#aaa;fill-opacity:1"/>
+ <rect width="10" height="2" x="19" y="18" style="fill:#868686;opacity:1;fill-opacity:1;stroke:none"/>
+ <rect width="6" height="2" x="19" y="22" style="fill:#868686;opacity:1;fill-opacity:1;stroke:none"/>
+ <rect width="10" height="2" x="19" y="28" style="fill:#868686;opacity:1;fill-opacity:1;stroke:none"/>
+</svg>

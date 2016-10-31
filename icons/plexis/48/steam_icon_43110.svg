@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3841" x1="1" x2="47" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#4c340c;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#5d400f;stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient7666" x1="0" x2="48" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#861814;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#971b17;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <g transform="matrix(0,-1,1,0,0,48)" style="fill:url(#linearGradient3841);fill-opacity:1">
+  <path d="M 24,1 C 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 z" style="fill:url(#linearGradient7666)"/>
+ </g>
+ <g transform="translate(39.661017,-1.7288136)">
+  <g>
+   <!-- color: #ed0112 -->
+  </g>
+ </g>
+ <g>
+  
+ </g>
+ <path d="m 13 14 0 2 6 7 6 8 6 -7 0 12 6 0 0 -22 -6 0 -6 8 -6 -8 -6 0 z m 0 3 0 19 6 0 0 -12 -6 -7 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <path d="m 12 13 0 2 6 7 6 8 6 -7 0 12 6 0 0 -22 -6 0 -6 8 -6 -8 -6 0 z m 0 3 0 19 6 0 0 -12 -6 -7 z" style="fill:#f46158;fill-opacity:1;stroke:none"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+ <defs>
+  <linearGradient id="linearGradient3817" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,0,48)">
+   <stop style="stop-color:#2f3549;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#373e55;stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  
+  
+  
+ </g>
+ <path d="M 24,47 C 1.297,47 1,46.703 1,24 1,1.297 1.297,1 24,1 46.703,1 47,1.297 47,24 47,46.703 46.703,47 24,47 z" style="fill:url(#linearGradient3817);fill-opacity:1"/>
+ <g>
+  
+ </g>
+ <path d="m 11 16 7 -2 8 20 6 -10 c 1.755 -3 0 -3.565 0 -6 0 -2.402 1 -4 2.516 -4 c 1.484 0 2.484 1.765 2.484 4 c 0 4 -2 3.343 -4 7 l -9 15 -9 -22 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <path d="m 10 15 7 -2 8 20 6 -10 c 1.755 -3 0 -3.565 0 -6 0 -2.402 1 -4 2.516 -4 c 1.484 0 2.484 1.765 2.484 4 c 0 4 -2 3.343 -4 7 l -9 15 -9 -22 z" style="fill:#fbf6dc;fill-opacity:1;stroke:none"/>
+</svg>
